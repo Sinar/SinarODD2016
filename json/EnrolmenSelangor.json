@@ -1,0 +1,929 @@
+{"J":"1014","KodSekolah":"BBA7101","L":"503","NamaSekolah":"SK SELAYANG BARU (2)","Negeri":"SELANGOR","P":"511","PPD":"PPD GOMBAK"}
+{"J":"1023","KodSekolah":"BBA7102","L":"531","NamaSekolah":"SK (2) TAMAN SELAYANG","Negeri":"SELANGOR","P":"492","PPD":"PPD GOMBAK"}
+{"J":"470","KodSekolah":"BBA7103","L":"241","NamaSekolah":"SK (2) TAMAN KERAMAT","Negeri":"SELANGOR","P":"229","PPD":"PPD GOMBAK"}
+{"J":"781","KodSekolah":"BBA7201","L":"417","NamaSekolah":"SK HULU KELANG","Negeri":"SELANGOR","P":"364","PPD":"PPD GOMBAK"}
+{"J":"296","KodSekolah":"BBA7202","L":"159","NamaSekolah":"SK KLANG GATE","Negeri":"SELANGOR","P":"137","PPD":"PPD GOMBAK"}
+{"J":"1368","KodSekolah":"BBA7203","L":"689","NamaSekolah":"SK GOMBAK SETIA","Negeri":"SELANGOR","P":"679","PPD":"PPD GOMBAK"}
+{"J":"1011","KodSekolah":"BBA7204","L":"528","NamaSekolah":"SK GOMBAK UTARA","Negeri":"SELANGOR","P":"483","PPD":"PPD GOMBAK"}
+{"J":"1863","KodSekolah":"BBA7205","L":"997","NamaSekolah":"SK SG TUA BAHARU","Negeri":"SELANGOR","P":"866","PPD":"PPD GOMBAK"}
+{"J":"391","KodSekolah":"BBA7206","L":"213","NamaSekolah":"SK KEPONG","Negeri":"SELANGOR","P":"178","PPD":"PPD GOMBAK"}
+{"J":"387","KodSekolah":"BBA7207","L":"191","NamaSekolah":"SK RAWANG","Negeri":"SELANGOR","P":"196","PPD":"PPD GOMBAK"}
+{"J":"1315","KodSekolah":"BBA7208","L":"666","NamaSekolah":"SK KUANG","Negeri":"SELANGOR","P":"649","PPD":"PPD GOMBAK"}
+{"J":"394","KodSekolah":"BBA7209","L":"207","NamaSekolah":"SK SG SERAI","Negeri":"SELANGOR","P":"187","PPD":"PPD GOMBAK"}
+{"J":"1880","KodSekolah":"BBA7210","L":"947","NamaSekolah":"SK SG PELONG","Negeri":"SELANGOR","P":"933","PPD":"PPD GOMBAK"}
+{"J":"515","KodSekolah":"BBA7211","L":"280","NamaSekolah":"SK TAMAN KERAMAT (1)","Negeri":"SELANGOR","P":"235","PPD":"PPD GOMBAK"}
+{"J":"1277","KodSekolah":"BBA7212","L":"703","NamaSekolah":"SK SG BULUH","Negeri":"SELANGOR","P":"574","PPD":"PPD GOMBAK"}
+{"J":"716","KodSekolah":"BBA7213","L":"401","NamaSekolah":"SK TAMAN EHSAN","Negeri":"SELANGOR","P":"315","PPD":"PPD GOMBAK"}
+{"J":"1494","KodSekolah":"BBA7214","L":"750","NamaSekolah":"SK TAMAN MELAWATI","Negeri":"SELANGOR","P":"744","PPD":"PPD GOMBAK"}
+{"J":"956","KodSekolah":"BBA7215","L":"497","NamaSekolah":"SK (1) TAMAN SELAYANG","Negeri":"SELANGOR","P":"459","PPD":"PPD GOMBAK"}
+{"J":"2091","KodSekolah":"BBA7216","L":"1084","NamaSekolah":"SK TAMAN SERI GOMBAK","Negeri":"SELANGOR","P":"1007","PPD":"PPD GOMBAK"}
+{"J":"1292","KodSekolah":"BBA7217","L":"666","NamaSekolah":"SK LEMBAH KERAMAT","Negeri":"SELANGOR","P":"626","PPD":"PPD GOMBAK"}
+{"J":"639","KodSekolah":"BBA7219","L":"412","NamaSekolah":"SK SELAYANG JAYA","Negeri":"SELANGOR","P":"227","PPD":"PPD GOMBAK"}
+{"J":"696","KodSekolah":"BBA7220","L":"353","NamaSekolah":"SK BANDAR BARU SELAYANG","Negeri":"SELANGOR","P":"343","PPD":"PPD GOMBAK"}
+{"J":"1389","KodSekolah":"BBA7221","L":"724","NamaSekolah":"SK TAMAN SELASIH","Negeri":"SELANGOR","P":"665","PPD":"PPD GOMBAK"}
+{"J":"653","KodSekolah":"BBA7222","L":"341","NamaSekolah":"SK TAMAN PERMATA","Negeri":"SELANGOR","P":"312","PPD":"PPD GOMBAK"}
+{"J":"1887","KodSekolah":"BBA7224","L":"962","NamaSekolah":"SK TAMAN MELAWATI 2","Negeri":"SELANGOR","P":"925","PPD":"PPD GOMBAK"}
+{"J":"716","KodSekolah":"BBA7225","L":"391","NamaSekolah":"SK SELAYANG UTAMA","Negeri":"SELANGOR","P":"325","PPD":"PPD GOMBAK"}
+{"J":"822","KodSekolah":"BBA7226","L":"434","NamaSekolah":"SK SUNGAI KERTAS","Negeri":"SELANGOR","P":"388","PPD":"PPD GOMBAK"}
+{"J":"647","KodSekolah":"BBA7227","L":"335","NamaSekolah":"SK TAMAN SAMUDRA","Negeri":"SELANGOR","P":"312","PPD":"PPD GOMBAK"}
+{"J":"1279","KodSekolah":"BBA7228","L":"659","NamaSekolah":"SK SUNGAI PUSU","Negeri":"SELANGOR","P":"620","PPD":"PPD GOMBAK"}
+{"J":"682","KodSekolah":"BBA7229","L":"354","NamaSekolah":"SK TAMAN SETIA","Negeri":"SELANGOR","P":"328","PPD":"PPD GOMBAK"}
+{"J":"1964","KodSekolah":"BBA7230","L":"1018","NamaSekolah":"SK TAMAN DESA","Negeri":"SELANGOR","P":"946","PPD":"PPD GOMBAK"}
+{"J":"823","KodSekolah":"BBA7231","L":"449","NamaSekolah":"SK BUKIT RAWANG JAYA","Negeri":"SELANGOR","P":"374","PPD":"PPD GOMBAK"}
+{"J":"1741","KodSekolah":"BBA7232","L":"890","NamaSekolah":"SK TAMAN BUKIT INDAH","Negeri":"SELANGOR","P":"851","PPD":"PPD GOMBAK"}
+{"J":"1465","KodSekolah":"BBA7233","L":"756","NamaSekolah":"SK BUKIT RAHMAN PUTRA","Negeri":"SELANGOR","P":"709","PPD":"PPD GOMBAK"}
+{"J":"1682","KodSekolah":"BBA7234","L":"868","NamaSekolah":"SK SERI KUNDANG","Negeri":"SELANGOR","P":"814","PPD":"PPD GOMBAK"}
+{"J":"1940","KodSekolah":"BBA7235","L":"1045","NamaSekolah":"SK TAMAN SERI GOMBAK 2","Negeri":"SELANGOR","P":"895","PPD":"PPD GOMBAK"}
+{"J":"1590","KodSekolah":"BBA7236","L":"846","NamaSekolah":"SK TAMAN DESA 2","Negeri":"SELANGOR","P":"744","PPD":"PPD GOMBAK"}
+{"J":"657","KodSekolah":"BBA7237","L":"351","NamaSekolah":"SK BANDAR BARU RAWANG","Negeri":"SELANGOR","P":"306","PPD":"PPD GOMBAK"}
+{"J":"2423","KodSekolah":"BBA7238","L":"1285","NamaSekolah":"SK BANDAR TASIK PUTERI","Negeri":"SELANGOR","P":"1138","PPD":"PPD GOMBAK"}
+{"J":"430","KodSekolah":"BBA7239","L":"231","NamaSekolah":"SK DESA AMANPURI","Negeri":"SELANGOR","P":"199","PPD":"PPD GOMBAK"}
+{"J":"485","KodSekolah":"BBA7240","L":"275","NamaSekolah":"SK TAMAN PRIMA SELAYANG","Negeri":"SELANGOR","P":"210","PPD":"PPD GOMBAK"}
+{"J":"717","KodSekolah":"BBA7241","L":"384","NamaSekolah":"SK BANDAR BARU SELAYANG (2)","Negeri":"SELANGOR","P":"333","PPD":"PPD GOMBAK"}
+{"J":"1729","KodSekolah":"BBA7242","L":"923","NamaSekolah":"SK TASIK PUTERI 2","Negeri":"SELANGOR","P":"806","PPD":"PPD GOMBAK"}
+{"J":"1833","KodSekolah":"BBA7243","L":"910","NamaSekolah":"SK TAMAN TUN TEJA","Negeri":"SELANGOR","P":"923","PPD":"PPD GOMBAK"}
+{"J":"1431","KodSekolah":"BBA8207","L":"736","NamaSekolah":"SK MERBAU SEMPAK","Negeri":"SELANGOR","P":"695","PPD":"PPD GOMBAK"}
+{"J":"1773","KodSekolah":"BBA8226","L":"936","NamaSekolah":"SK BANDAR BARU SUNGAI BULOH","Negeri":"SELANGOR","P":"837","PPD":"PPD GOMBAK"}
+{"J":"828","KodSekolah":"BBB7301","L":"439","NamaSekolah":"SK (1) GOMBAK","Negeri":"SELANGOR","P":"389","PPD":"PPD GOMBAK"}
+{"J":"741","KodSekolah":"BBB7302","L":"359","NamaSekolah":"SK (2) GOMBAK","Negeri":"SELANGOR","P":"382","PPD":"PPD GOMBAK"}
+{"J":"228","KodSekolah":"BBB7303","L":"119","NamaSekolah":"SK (1) KUALA AMPANG","Negeri":"SELANGOR","P":"109","PPD":"PPD GOMBAK"}
+{"J":"151","KodSekolah":"BBB7304","L":"76","NamaSekolah":"SK (2) KUALA AMPANG","Negeri":"SELANGOR","P":"75","PPD":"PPD GOMBAK"}
+{"J":"1289","KodSekolah":"BBB7305","L":"650","NamaSekolah":"SK (1) SELAYANG BARU","Negeri":"SELANGOR","P":"639","PPD":"PPD GOMBAK"}
+{"J":"845","KodSekolah":"BBB7306","L":"475","NamaSekolah":"SK SINARAN BUDI","Negeri":"SELANGOR","P":"370","PPD":"PPD GOMBAK"}
+{"J":"411","KodSekolah":"BBB7307","L":"212","NamaSekolah":"SK BATU ARANG","Negeri":"SELANGOR","P":"199","PPD":"PPD GOMBAK"}
+{"J":"326","KodSekolah":"BBC7401","L":"175","NamaSekolah":"SJK(C) CHAP KHUAN","Negeri":"SELANGOR","P":"151","PPD":"PPD GOMBAK"}
+{"J":"2053","KodSekolah":"BBC7402","L":"1066","NamaSekolah":"SJK(C) KHEOW BIN","Negeri":"SELANGOR","P":"987","PPD":"PPD GOMBAK"}
+{"J":"507","KodSekolah":"BBC7403","L":"265","NamaSekolah":"SJK(C) KUANG","Negeri":"SELANGOR","P":"242","PPD":"PPD GOMBAK"}
+{"J":"749","KodSekolah":"BBC7404","L":"399","NamaSekolah":"SJK(C) KUNDANG","Negeri":"SELANGOR","P":"350","PPD":"PPD GOMBAK"}
+{"J":"2354","KodSekolah":"BBC7405","L":"1281","NamaSekolah":"SJK(C) SAN YUK","Negeri":"SELANGOR","P":"1073","PPD":"PPD GOMBAK"}
+{"J":"1127","KodSekolah":"BBC7406","L":"571","NamaSekolah":"SJK(C) SELAYANG BARU","Negeri":"SELANGOR","P":"556","PPD":"PPD GOMBAK"}
+{"J":"3557","KodSekolah":"BBC7407","L":"1888","NamaSekolah":"SJK(C) DESA JAYA","Negeri":"SELANGOR","P":"1669","PPD":"PPD GOMBAK"}
+{"J":"575","KodSekolah":"BBC7408","L":"286","NamaSekolah":"SJKC KOTA EMERALD","Negeri":"SELANGOR","P":"289","PPD":"PPD GOMBAK"}
+{"J":"1537","KodSekolah":"BBD7451","L":"797","NamaSekolah":"SJK(T) BATU CAVES","Negeri":"SELANGOR","P":"740","PPD":"PPD GOMBAK"}
+{"J":"279","KodSekolah":"BBD7452","L":"144","NamaSekolah":"SJK(T) BATU ARANG","Negeri":"SELANGOR","P":"135","PPD":"PPD GOMBAK"}
+{"J":"174","KodSekolah":"BBD7453","L":"87","NamaSekolah":"SJK(T) KUANG","Negeri":"SELANGOR","P":"87","PPD":"PPD GOMBAK"}
+{"J":"223","KodSekolah":"BBD7454","L":"108","NamaSekolah":"SJK(T) BUKIT DARAH","Negeri":"SELANGOR","P":"115","PPD":"PPD GOMBAK"}
+{"J":"1130","KodSekolah":"BBD7455","L":"534","NamaSekolah":"SJK(T) RAWANG","Negeri":"SELANGOR","P":"596","PPD":"PPD GOMBAK"}
+{"J":"269","KodSekolah":"BBD7456","L":"133","NamaSekolah":"SJK(T) TAMAN MELAWATI","Negeri":"SELANGOR","P":"136","PPD":"PPD GOMBAK"}
+{"J":"627","KodSekolah":"BBD8457","L":"297","NamaSekolah":"SJK(T) SARASWATHY","Negeri":"SELANGOR","P":"330","PPD":"PPD GOMBAK"}
+{"J":"1305","KodSekolah":"BEA4619","L":"642","NamaSekolah":"SMK BUKIT INDAH","Negeri":"SELANGOR","P":"663","PPD":"PPD GOMBAK"}
+{"J":"2857","KodSekolah":"BEA7601","L":"1374","NamaSekolah":"SMK GOMBAK SETIA","Negeri":"SELANGOR","P":"1483","PPD":"PPD GOMBAK"}
+{"J":"1784","KodSekolah":"BEA7602","L":"936","NamaSekolah":"SMK TAMAN SELAYANG","Negeri":"SELANGOR","P":"848","PPD":"PPD GOMBAK"}
+{"J":"1375","KodSekolah":"BEA7603","L":"660","NamaSekolah":"SMK LEMBAH KERAMAT","Negeri":"SELANGOR","P":"715","PPD":"PPD GOMBAK"}
+{"J":"2089","KodSekolah":"BEA7604","L":"1101","NamaSekolah":"SMK TAMAN EHSAN","Negeri":"SELANGOR","P":"988","PPD":"PPD GOMBAK"}
+{"J":"2159","KodSekolah":"BEA7605","L":"1113","NamaSekolah":"SMK RAWANG","Negeri":"SELANGOR","P":"1046","PPD":"PPD GOMBAK"}
+{"J":"979","KodSekolah":"BEA7606","L":"470","NamaSekolah":"SMK TAMAN KERAMAT","Negeri":"SELANGOR","P":"509","PPD":"PPD GOMBAK"}
+{"J":"2001","KodSekolah":"BEA7607","L":"1009","NamaSekolah":"SMK SERI GOMBAK","Negeri":"SELANGOR","P":"992","PPD":"PPD GOMBAK"}
+{"J":"2057","KodSekolah":"BEA7608","L":"1067","NamaSekolah":"SMK HILLCREST","Negeri":"SELANGOR","P":"990","PPD":"PPD GOMBAK"}
+{"J":"2046","KodSekolah":"BEA7609","L":"1101","NamaSekolah":"SMK IDEAL HEIGHTS","Negeri":"SELANGOR","P":"945","PPD":"PPD GOMBAK"}
+{"J":"2275","KodSekolah":"BEA7610","L":"1157","NamaSekolah":"SMK TAMAN MELAWATI","Negeri":"SELANGOR","P":"1118","PPD":"PPD GOMBAK"}
+{"J":"1436","KodSekolah":"BEA7612","L":"751","NamaSekolah":"SMK SERI SELAYANG","Negeri":"SELANGOR","P":"685","PPD":"PPD GOMBAK"}
+{"J":"1409","KodSekolah":"BEA7613","L":"718","NamaSekolah":"SMK SUNGAI KERTAS","Negeri":"SELANGOR","P":"691","PPD":"PPD GOMBAK"}
+{"J":"1022","KodSekolah":"BEA7614","L":"530","NamaSekolah":"SMK SERI KERAMAT","Negeri":"SELANGOR","P":"492","PPD":"PPD GOMBAK"}
+{"J":"2318","KodSekolah":"BEA7615","L":"1137","NamaSekolah":"SMK DARUL EHSAN","Negeri":"SELANGOR","P":"1181","PPD":"PPD GOMBAK"}
+{"J":"1876","KodSekolah":"BEA7616","L":"903","NamaSekolah":"SMK SUNGAI PUSU","Negeri":"SELANGOR","P":"973","PPD":"PPD GOMBAK"}
+{"J":"1772","KodSekolah":"BEA7617","L":"900","NamaSekolah":"SMK TAMAN DESA","Negeri":"SELANGOR","P":"872","PPD":"PPD GOMBAK"}
+{"J":"2516","KodSekolah":"BEA7618","L":"1224","NamaSekolah":"SMK BANDAR TASIK PUTERI","Negeri":"SELANGOR","P":"1292","PPD":"PPD GOMBAK"}
+{"J":"1998","KodSekolah":"BEA7619","L":"992","NamaSekolah":"SMK BUKIT RAHMAN PUTRA","Negeri":"SELANGOR","P":"1006","PPD":"PPD GOMBAK"}
+{"J":"1462","KodSekolah":"BEA7620","L":"743","NamaSekolah":"SMK SERI KUNDANG","Negeri":"SELANGOR","P":"719","PPD":"PPD GOMBAK"}
+{"J":"1882","KodSekolah":"BEA7621","L":"967","NamaSekolah":"SMK TAMAN DESA 2","Negeri":"SELANGOR","P":"915","PPD":"PPD GOMBAK"}
+{"J":"889","KodSekolah":"BEA7622","L":"474","NamaSekolah":"SMK SIERRAMAS","Negeri":"SELANGOR","P":"415","PPD":"PPD GOMBAK"}
+{"J":"876","KodSekolah":"BEA7623","L":"452","NamaSekolah":"SMK TUN PERAK","Negeri":"SELANGOR","P":"424","PPD":"PPD GOMBAK"}
+{"J":"2006","KodSekolah":"BEA8605","L":"943","NamaSekolah":"SMK BUKIT GADING","Negeri":"SELANGOR","P":"1063","PPD":"PPD GOMBAK"}
+{"J":"2632","KodSekolah":"BEA8620","L":"1327","NamaSekolah":"SMK BANDAR BARU SUNGAI BULOH","Negeri":"SELANGOR","P":"1305","PPD":"PPD GOMBAK"}
+{"J":"2475","KodSekolah":"BEB7651","L":"1278","NamaSekolah":"SMK KEPONG","Negeri":"SELANGOR","P":"1197","PPD":"PPD GOMBAK"}
+{"J":"460","KodSekolah":"BEB7652","L":"223","NamaSekolah":"SMK HULU KELANG","Negeri":"SELANGOR","P":"237","PPD":"PPD GOMBAK"}
+{"J":"2029","KodSekolah":"BEB7653","L":"1070","NamaSekolah":"SMK SELAYANG BHARU","Negeri":"SELANGOR","P":"959","PPD":"PPD GOMBAK"}
+{"J":"2691","KodSekolah":"BEB7654","L":"1304","NamaSekolah":"SMK SERI GARING","Negeri":"SELANGOR","P":"1387","PPD":"PPD GOMBAK"}
+{"J":"800","KodSekolah":"BEB7655","L":"414","NamaSekolah":"SMK TUANKU ABDUL RAHMAN","Negeri":"SELANGOR","P":"386","PPD":"PPD GOMBAK"}
+{"J":"757","KodSekolah":"BFT7001","L":"326","NamaSekolah":"SAM RAWANG","Negeri":"SELANGOR","P":"431","PPD":"PPD GOMBAK"}
+{"J":"535","KodSekolah":"BFT8001","L":"233","NamaSekolah":"SAM PAYA JARAS","Negeri":"SELANGOR","P":"302","PPD":"PPD GOMBAK"}
+{"J":"283","KodSekolah":"BHA7001","L":"57","NamaSekolah":"KOLEJ VOKASIONAL GOMBAK","Negeri":"SELANGOR","P":"226","PPD":"PPD GOMBAK"}
+{"J":"620","KodSekolah":"BHA8002","L":"502","NamaSekolah":"KOLEJ VOKASIONAL SUNGAI BULOH","Negeri":"SELANGOR","P":"118","PPD":"PPD GOMBAK"}
+{"J":"632","KodSekolah":"BRA7001","L":"309","NamaSekolah":"SBPI RAWANG","Negeri":"SELANGOR","P":"323","PPD":"PPD GOMBAK"}
+{"J":"631","KodSekolah":"BRA7002","L":"314","NamaSekolah":"SBPI GOMBAK","Negeri":"SELANGOR","P":"317","PPD":"PPD GOMBAK"}
+{"J":"933","KodSekolah":"BBA4001","L":"486","NamaSekolah":"SK SUNGAI SERAI","Negeri":"SELANGOR","P":"447","PPD":"PPD HULU LANGAT"}
+{"J":"1520","KodSekolah":"BBA4002","L":"801","NamaSekolah":"SK JALAN ENAM","Negeri":"SELANGOR","P":"719","PPD":"PPD HULU LANGAT"}
+{"J":"1237","KodSekolah":"BBA4003","L":"683","NamaSekolah":"SK AMPANG CAMPURAN","Negeri":"SELANGOR","P":"554","PPD":"PPD HULU LANGAT"}
+{"J":"1396","KodSekolah":"BBA4004","L":"702","NamaSekolah":"SK SERI SEKAMAT","Negeri":"SELANGOR","P":"694","PPD":"PPD HULU LANGAT"}
+{"J":"666","KodSekolah":"BBA4005","L":"362","NamaSekolah":"SK BATU SEMBILAN","Negeri":"SELANGOR","P":"304","PPD":"PPD HULU LANGAT"}
+{"J":"1254","KodSekolah":"BBA4006","L":"653","NamaSekolah":"SK TUN ABD AZIZ MAJID","Negeri":"SELANGOR","P":"601","PPD":"PPD HULU LANGAT"}
+{"J":"269","KodSekolah":"BBA4007","L":"130","NamaSekolah":"SK SG TEKALI","Negeri":"SELANGOR","P":"139","PPD":"PPD HULU LANGAT"}
+{"J":"133","KodSekolah":"BBA4008","L":"64","NamaSekolah":"SK KUALA POMSON","Negeri":"SELANGOR","P":"69","PPD":"PPD HULU LANGAT"}
+{"J":"678","KodSekolah":"BBA4009","L":"353","NamaSekolah":"SK DUSUN TUA","Negeri":"SELANGOR","P":"325","PPD":"PPD HULU LANGAT"}
+{"J":"496","KodSekolah":"BBA4010","L":"268","NamaSekolah":"SK LUBOK KELUBI","Negeri":"SELANGOR","P":"228","PPD":"PPD HULU LANGAT"}
+{"J":"369","KodSekolah":"BBA4011","L":"172","NamaSekolah":"SK SUNGAI LUI","Negeri":"SELANGOR","P":"197","PPD":"PPD HULU LANGAT"}
+{"J":"1138","KodSekolah":"BBA4012","L":"571","NamaSekolah":"SK LEFTENAN ADNAN","Negeri":"SELANGOR","P":"567","PPD":"PPD HULU LANGAT"}
+{"J":"1080","KodSekolah":"BBA4013","L":"593","NamaSekolah":"SK SUNGAI RAMAL DALAM","Negeri":"SELANGOR","P":"487","PPD":"PPD HULU LANGAT"}
+{"J":"1573","KodSekolah":"BBA4014","L":"828","NamaSekolah":"SK TAMAN NIRWANA","Negeri":"SELANGOR","P":"745","PPD":"PPD HULU LANGAT"}
+{"J":"639","KodSekolah":"BBA4015","L":"365","NamaSekolah":"SK KAJANG","Negeri":"SELANGOR","P":"274","PPD":"PPD HULU LANGAT"}
+{"J":"569","KodSekolah":"BBA4016","L":"278","NamaSekolah":"SK BERANANG","Negeri":"SELANGOR","P":"291","PPD":"PPD HULU LANGAT"}
+{"J":"154","KodSekolah":"BBA4017","L":"84","NamaSekolah":"SK KG KUALA PAJAM","Negeri":"SELANGOR","P":"70","PPD":"PPD HULU LANGAT"}
+{"J":"804","KodSekolah":"BBA4018","L":"397","NamaSekolah":"SK BANGI","Negeri":"SELANGOR","P":"407","PPD":"PPD HULU LANGAT"}
+{"J":"762","KodSekolah":"BBA4019","L":"404","NamaSekolah":"SEKOLAH KEBANGSAAN KG CHERAS BAHARU","Negeri":"SELANGOR","P":"358","PPD":"PPD HULU LANGAT"}
+{"J":"1182","KodSekolah":"BBA4020","L":"616","NamaSekolah":"SK LEMBAH JAYA","Negeri":"SELANGOR","P":"566","PPD":"PPD HULU LANGAT"}
+{"J":"749","KodSekolah":"BBA4021","L":"404","NamaSekolah":"SK ULU SEMENYIH","Negeri":"SELANGOR","P":"345","PPD":"PPD HULU LANGAT"}
+{"J":"353","KodSekolah":"BBA4022","L":"183","NamaSekolah":"SK KG RINCING","Negeri":"SELANGOR","P":"170","PPD":"PPD HULU LANGAT"}
+{"J":"606","KodSekolah":"BBA4023","L":"324","NamaSekolah":"SK RINCHING HILIR","Negeri":"SELANGOR","P":"282","PPD":"PPD HULU LANGAT"}
+{"J":"1286","KodSekolah":"BBA4024","L":"660","NamaSekolah":"SK AMPANG","Negeri":"SELANGOR","P":"626","PPD":"PPD HULU LANGAT"}
+{"J":"1537","KodSekolah":"BBA4025","L":"761","NamaSekolah":"SK BANDAR BARU BANGI","Negeri":"SELANGOR","P":"776","PPD":"PPD HULU LANGAT"}
+{"J":"1474","KodSekolah":"BBA4026","L":"748","NamaSekolah":"SK TAMAN TASIK","Negeri":"SELANGOR","P":"726","PPD":"PPD HULU LANGAT"}
+{"J":"751","KodSekolah":"BBA4027","L":"422","NamaSekolah":"SK SUNGAI KANTAN","Negeri":"SELANGOR","P":"329","PPD":"PPD HULU LANGAT"}
+{"J":"1065","KodSekolah":"BBA4028","L":"555","NamaSekolah":"SK TAMAN MUDA","Negeri":"SELANGOR","P":"510","PPD":"PPD HULU LANGAT"}
+{"J":"833","KodSekolah":"BBA4029","L":"446","NamaSekolah":"SK TAMAN CUEPACS","Negeri":"SELANGOR","P":"387","PPD":"PPD HULU LANGAT"}
+{"J":"1563","KodSekolah":"BBA4030","L":"786","NamaSekolah":"SK TAMAN KOSAS","Negeri":"SELANGOR","P":"777","PPD":"PPD HULU LANGAT"}
+{"J":"2303","KodSekolah":"BBA4031","L":"1195","NamaSekolah":"SK TAMING JAYA","Negeri":"SELANGOR","P":"1108","PPD":"PPD HULU LANGAT"}
+{"J":"1756","KodSekolah":"BBA4032","L":"919","NamaSekolah":"SK JALAN 3","Negeri":"SELANGOR","P":"837","PPD":"PPD HULU LANGAT"}
+{"J":"1571","KodSekolah":"BBA4033","L":"827","NamaSekolah":"SK PANDAN INDAH","Negeri":"SELANGOR","P":"744","PPD":"PPD HULU LANGAT"}
+{"J":"2008","KodSekolah":"BBA4034","L":"1058","NamaSekolah":"SK BANDAR TUN HUSSEIN ONN","Negeri":"SELANGOR","P":"950","PPD":"PPD HULU LANGAT"}
+{"J":"679","KodSekolah":"BBA4035","L":"338","NamaSekolah":"SK PANDAN JAYA","Negeri":"SELANGOR","P":"341","PPD":"PPD HULU LANGAT"}
+{"J":"1167","KodSekolah":"BBA4036","L":"598","NamaSekolah":"SK SAUJANA IMPIAN","Negeri":"SELANGOR","P":"569","PPD":"PPD HULU LANGAT"}
+{"J":"1492","KodSekolah":"BBA4037","L":"815","NamaSekolah":"SK KAJANG UTAMA","Negeri":"SELANGOR","P":"677","PPD":"PPD HULU LANGAT"}
+{"J":"1350","KodSekolah":"BBA4038","L":"680","NamaSekolah":"SK TAMAN RAKAN","Negeri":"SELANGOR","P":"670","PPD":"PPD HULU LANGAT"}
+{"J":"863","KodSekolah":"BBA4039","L":"449","NamaSekolah":"SK SRI JELOK","Negeri":"SELANGOR","P":"414","PPD":"PPD HULU LANGAT"}
+{"J":"410","KodSekolah":"BBA4040","L":"212","NamaSekolah":"SK CHERAS INDAH","Negeri":"SELANGOR","P":"198","PPD":"PPD HULU LANGAT"}
+{"J":"640","KodSekolah":"BBA4041","L":"322","NamaSekolah":"SK BUKIT RAYA","Negeri":"SELANGOR","P":"318","PPD":"PPD HULU LANGAT"}
+{"J":"405","KodSekolah":"BBA4042","L":"199","NamaSekolah":"SK TASEK PERMAI","Negeri":"SELANGOR","P":"206","PPD":"PPD HULU LANGAT"}
+{"J":"1396","KodSekolah":"BBA4043","L":"694","NamaSekolah":"SK DESA BAIDURI","Negeri":"SELANGOR","P":"702","PPD":"PPD HULU LANGAT"}
+{"J":"1587","KodSekolah":"BBA4044","L":"874","NamaSekolah":"SK TAMAN JASMIN","Negeri":"SELANGOR","P":"713","PPD":"PPD HULU LANGAT"}
+{"J":"2285","KodSekolah":"BBA4045","L":"1160","NamaSekolah":"SK JALAN EMPAT","Negeri":"SELANGOR","P":"1125","PPD":"PPD HULU LANGAT"}
+{"J":"1706","KodSekolah":"BBA4046","L":"841","NamaSekolah":"SK KANTAN PERMAI","Negeri":"SELANGOR","P":"865","PPD":"PPD HULU LANGAT"}
+{"J":"2707","KodSekolah":"BBA4047","L":"1376","NamaSekolah":"SK SEKSYEN 7","Negeri":"SELANGOR","P":"1331","PPD":"PPD HULU LANGAT"}
+{"J":"290","KodSekolah":"BBA4048","L":"136","NamaSekolah":"SK PANDAN PERDANA","Negeri":"SELANGOR","P":"154","PPD":"PPD HULU LANGAT"}
+{"J":"1180","KodSekolah":"BBA4049","L":"606","NamaSekolah":"SK SAUJANA IMPIAN (2)","Negeri":"SELANGOR","P":"574","PPD":"PPD HULU LANGAT"}
+{"J":"1290","KodSekolah":"BBA4050","L":"661","NamaSekolah":"SK CHERAS JAYA","Negeri":"SELANGOR","P":"629","PPD":"PPD HULU LANGAT"}
+{"J":"2207","KodSekolah":"BBA4051","L":"1174","NamaSekolah":"SK BANDAR TASIK KESUMA","Negeri":"SELANGOR","P":"1033","PPD":"PPD HULU LANGAT"}
+{"J":"2279","KodSekolah":"BBA4052","L":"1192","NamaSekolah":"SK BANDAR RINCHING","Negeri":"SELANGOR","P":"1087","PPD":"PPD HULU LANGAT"}
+{"J":"1605","KodSekolah":"BBA4053","L":"828","NamaSekolah":"SK BANDAR TEKNOLOGI","Negeri":"SELANGOR","P":"777","PPD":"PPD HULU LANGAT"}
+{"J":"720","KodSekolah":"BBA4054","L":"366","NamaSekolah":"SK DUSUN NANDING","Negeri":"SELANGOR","P":"354","PPD":"PPD HULU LANGAT"}
+{"J":"2179","KodSekolah":"BBA4055","L":"1120","NamaSekolah":"SK BANDAR TUN HUSSEIN ONN 2","Negeri":"SELANGOR","P":"1059","PPD":"PPD HULU LANGAT"}
+{"J":"737","KodSekolah":"BBA4056","L":"392","NamaSekolah":"SK TAMAN BUKIT TERATAI","Negeri":"SELANGOR","P":"345","PPD":"PPD HULU LANGAT"}
+{"J":"360","KodSekolah":"BBA4057","L":"179","NamaSekolah":"SK TAMAN PUTERI","Negeri":"SELANGOR","P":"181","PPD":"PPD HULU LANGAT"}
+{"J":"2428","KodSekolah":"BBA4058","L":"1259","NamaSekolah":"SK BANDAR SERI PUTRA","Negeri":"SELANGOR","P":"1169","PPD":"PPD HULU LANGAT"}
+{"J":"905","KodSekolah":"BBA4060","L":"456","NamaSekolah":"SEKOLAH KEBANGSAAN BANDAR BUKIT MAHKOTA","Negeri":"SELANGOR","P":"449","PPD":"PPD HULU LANGAT"}
+{"J":"946","KodSekolah":"BBB4028","L":"0","NamaSekolah":"SK CONVENT (M)","Negeri":"SELANGOR","P":"946","PPD":"PPD HULU LANGAT"}
+{"J":"193","KodSekolah":"BBB4029","L":"107","NamaSekolah":"SK JALAN BUKIT SATU","Negeri":"SELANGOR","P":"86","PPD":"PPD HULU LANGAT"}
+{"J":"118","KodSekolah":"BBB4030","L":"73","NamaSekolah":"SK (2) JALAN BUKIT","Negeri":"SELANGOR","P":"45","PPD":"PPD HULU LANGAT"}
+{"J":"275","KodSekolah":"BBB4031","L":"177","NamaSekolah":"SK JALAN SEMENYIH '1'(INTEG)","Negeri":"SELANGOR","P":"98","PPD":"PPD HULU LANGAT"}
+{"J":"384","KodSekolah":"BBB4032","L":"280","NamaSekolah":"SK JALAN SEMENYIH '2'(INTEG)","Negeri":"SELANGOR","P":"104","PPD":"PPD HULU LANGAT"}
+{"J":"1974","KodSekolah":"BBB4033","L":"1039","NamaSekolah":"SK SEMENYIH","Negeri":"SELANGOR","P":"935","PPD":"PPD HULU LANGAT"}
+{"J":"1542","KodSekolah":"BBC4034","L":"769","NamaSekolah":"SJK(C) BALAKONG","Negeri":"SELANGOR","P":"773","PPD":"PPD HULU LANGAT"}
+{"J":"2297","KodSekolah":"BBC4035","L":"1142","NamaSekolah":"SJK(C) BATU 9 CHERAS","Negeri":"SELANGOR","P":"1155","PPD":"PPD HULU LANGAT"}
+{"J":"3581","KodSekolah":"BBC4036","L":"1833","NamaSekolah":"SJK(C) BATU 11","Negeri":"SELANGOR","P":"1748","PPD":"PPD HULU LANGAT"}
+{"J":"34","KodSekolah":"BBC4037","L":"15","NamaSekolah":"SJK(C) CHOON HWA","Negeri":"SELANGOR","P":"19","PPD":"PPD HULU LANGAT"}
+{"J":"674","KodSekolah":"BBC4039","L":"345","NamaSekolah":"SJK(C) KG BARU SEMENYIH","Negeri":"SELANGOR","P":"329","PPD":"PPD HULU LANGAT"}
+{"J":"1428","KodSekolah":"BBC4040","L":"771","NamaSekolah":"SJK(C) SIN MING","Negeri":"SELANGOR","P":"657","PPD":"PPD HULU LANGAT"}
+{"J":"1514","KodSekolah":"BBC4041","L":"805","NamaSekolah":"SJK(C) SUNGAI CHUA","Negeri":"SELANGOR","P":"709","PPD":"PPD HULU LANGAT"}
+{"J":"150","KodSekolah":"BBC4042","L":"72","NamaSekolah":"SJK(C) TON FAH","Negeri":"SELANGOR","P":"78","PPD":"PPD HULU LANGAT"}
+{"J":"329","KodSekolah":"BBC4043","L":"177","NamaSekolah":"SJK(C) BATU 14","Negeri":"SELANGOR","P":"152","PPD":"PPD HULU LANGAT"}
+{"J":"181","KodSekolah":"BBC4044","L":"87","NamaSekolah":"SJK(C) YOKE MIN","Negeri":"SELANGOR","P":"94","PPD":"PPD HULU LANGAT"}
+{"J":"2832","KodSekolah":"BBC4045","L":"1481","NamaSekolah":"SJK(C) YU HUA","Negeri":"SELANGOR","P":"1351","PPD":"PPD HULU LANGAT"}
+{"J":"1434","KodSekolah":"BBC4046","L":"743","NamaSekolah":"SJK(C) KG BARU AMPANG","Negeri":"SELANGOR","P":"691","PPD":"PPD HULU LANGAT"}
+{"J":"1765","KodSekolah":"BBC4047","L":"897","NamaSekolah":"SJK(C) ON PONG","Negeri":"SELANGOR","P":"868","PPD":"PPD HULU LANGAT"}
+{"J":"2858","KodSekolah":"BBC4048","L":"1435","NamaSekolah":"SJK(C) CONNAUGHT (2)","Negeri":"SELANGOR","P":"1423","PPD":"PPD HULU LANGAT"}
+{"J":"2664","KodSekolah":"BBC4049","L":"1416","NamaSekolah":"SJK(C) ON PONG 2","Negeri":"SELANGOR","P":"1248","PPD":"PPD HULU LANGAT"}
+{"J":"107","KodSekolah":"BBD4051","L":"58","NamaSekolah":"SJK(T) BANGI","Negeri":"SELANGOR","P":"49","PPD":"PPD HULU LANGAT"}
+{"J":"20","KodSekolah":"BBD4053","L":"12","NamaSekolah":"SJK(T) LDG DOMINION","Negeri":"SELANGOR","P":"8","PPD":"PPD HULU LANGAT"}
+{"J":"1174","KodSekolah":"BBD4055","L":"611","NamaSekolah":"SJK(T) KAJANG","Negeri":"SELANGOR","P":"563","PPD":"PPD HULU LANGAT"}
+{"J":"561","KodSekolah":"BBD4057","L":"290","NamaSekolah":"SJK(T) LDG RINCHING","Negeri":"SELANGOR","P":"271","PPD":"PPD HULU LANGAT"}
+{"J":"417","KodSekolah":"BBD4060","L":"224","NamaSekolah":"SJK(T) LADANG SEMENYIH","Negeri":"SELANGOR","P":"193","PPD":"PPD HULU LANGAT"}
+{"J":"383","KodSekolah":"BBD4063","L":"189","NamaSekolah":"SJK(T) LDG WEST COUNTRY 'TIMUR'","Negeri":"SELANGOR","P":"194","PPD":"PPD HULU LANGAT"}
+{"J":"498","KodSekolah":"BBD4064","L":"252","NamaSekolah":"SJK(T) AMPANG","Negeri":"SELANGOR","P":"246","PPD":"PPD HULU LANGAT"}
+{"J":"2021","KodSekolah":"BEA4601","L":"991","NamaSekolah":"SMK TAMAN TASIK","Negeri":"SELANGOR","P":"1030","PPD":"PPD HULU LANGAT"}
+{"J":"1997","KodSekolah":"BEA4603","L":"1032","NamaSekolah":"SMK BANDAR BARU BANGI","Negeri":"SELANGOR","P":"965","PPD":"PPD HULU LANGAT"}
+{"J":"2308","KodSekolah":"BEA4604","L":"1074","NamaSekolah":"SMK SULTAN ABDUL AZIZ SHAH (INTEG)","Negeri":"SELANGOR","P":"1234","PPD":"PPD HULU LANGAT"}
+{"J":"853","KodSekolah":"BEA4605","L":"414","NamaSekolah":"SMK KHIR JOHARI","Negeri":"SELANGOR","P":"439","PPD":"PPD HULU LANGAT"}
+{"J":"2415","KodSekolah":"BEA4606","L":"1193","NamaSekolah":"SMK ABDUL JALIL","Negeri":"SELANGOR","P":"1222","PPD":"PPD HULU LANGAT"}
+{"J":"3134","KodSekolah":"BEA4608","L":"1569","NamaSekolah":"SMK ENGKU HUSAIN","Negeri":"SELANGOR","P":"1565","PPD":"PPD HULU LANGAT"}
+{"J":"2325","KodSekolah":"BEA4609","L":"1194","NamaSekolah":"SMK TAMAN KOSAS","Negeri":"SELANGOR","P":"1131","PPD":"PPD HULU LANGAT"}
+{"J":"1728","KodSekolah":"BEA4610","L":"842","NamaSekolah":"SMK TAMAN SERAYA","Negeri":"SELANGOR","P":"886","PPD":"PPD HULU LANGAT"}
+{"J":"2338","KodSekolah":"BEA4611","L":"1131","NamaSekolah":"SMK PERIMBUN","Negeri":"SELANGOR","P":"1207","PPD":"PPD HULU LANGAT"}
+{"J":"880","KodSekolah":"BEA4612","L":"439","NamaSekolah":"SMK TASEK PERMAI","Negeri":"SELANGOR","P":"441","PPD":"PPD HULU LANGAT"}
+{"J":"1841","KodSekolah":"BEA4613","L":"978","NamaSekolah":"SMK JALAN REKO","Negeri":"SELANGOR","P":"863","PPD":"PPD HULU LANGAT"}
+{"J":"2216","KodSekolah":"BEA4614","L":"1139","NamaSekolah":"SMK JALAN TIGA","Negeri":"SELANGOR","P":"1077","PPD":"PPD HULU LANGAT"}
+{"J":"1841","KodSekolah":"BEA4615","L":"959","NamaSekolah":"SMK PANDAN JAYA","Negeri":"SELANGOR","P":"882","PPD":"PPD HULU LANGAT"}
+{"J":"2053","KodSekolah":"BEA4616","L":"1034","NamaSekolah":"SMK PANDAN INDAH","Negeri":"SELANGOR","P":"1019","PPD":"PPD HULU LANGAT"}
+{"J":"1502","KodSekolah":"BEA4617","L":"824","NamaSekolah":"SMK CHERAS PERDANA","Negeri":"SELANGOR","P":"678","PPD":"PPD HULU LANGAT"}
+{"J":"986","KodSekolah":"BEA4618","L":"490","NamaSekolah":"SMK DATO' AHMAD RAZALI","Negeri":"SELANGOR","P":"496","PPD":"PPD HULU LANGAT"}
+{"J":"2404","KodSekolah":"BEA4620","L":"1223","NamaSekolah":"SMK CHERAS JAYA","Negeri":"SELANGOR","P":"1181","PPD":"PPD HULU LANGAT"}
+{"J":"2665","KodSekolah":"BEA4621","L":"1299","NamaSekolah":"SMK SAUJANA IMPIAN","Negeri":"SELANGOR","P":"1366","PPD":"PPD HULU LANGAT"}
+{"J":"1319","KodSekolah":"BEA4622","L":"651","NamaSekolah":"SMK BANDAR BARU AMPANG","Negeri":"SELANGOR","P":"668","PPD":"PPD HULU LANGAT"}
+{"J":"3112","KodSekolah":"BEA4623","L":"1631","NamaSekolah":"SMK BANDAR BARU SUNGAI LONG","Negeri":"SELANGOR","P":"1481","PPD":"PPD HULU LANGAT"}
+{"J":"1398","KodSekolah":"BEA4624","L":"559","NamaSekolah":"SMK JALAN EMPAT","Negeri":"SELANGOR","P":"839","PPD":"PPD HULU LANGAT"}
+{"J":"1143","KodSekolah":"BEA4625","L":"592","NamaSekolah":"SMK KAJANG UTAMA","Negeri":"SELANGOR","P":"551","PPD":"PPD HULU LANGAT"}
+{"J":"2661","KodSekolah":"BEA4626","L":"1215","NamaSekolah":"SMK TAMAN JASMIN 2","Negeri":"SELANGOR","P":"1446","PPD":"PPD HULU LANGAT"}
+{"J":"1918","KodSekolah":"BEA4627","L":"963","NamaSekolah":"SMK DUSUN NANDING","Negeri":"SELANGOR","P":"955","PPD":"PPD HULU LANGAT"}
+{"J":"2006","KodSekolah":"BEA4628","L":"1005","NamaSekolah":"SMK BANDAR TASIK KESUMA","Negeri":"SELANGOR","P":"1001","PPD":"PPD HULU LANGAT"}
+{"J":"2373","KodSekolah":"BEA4629","L":"1190","NamaSekolah":"SMK BANDAR DAMAI PERDANA","Negeri":"SELANGOR","P":"1183","PPD":"PPD HULU LANGAT"}
+{"J":"2357","KodSekolah":"BEA4630","L":"1137","NamaSekolah":"SMK BANDAR TUN HUSSEIN ONN 2","Negeri":"SELANGOR","P":"1220","PPD":"PPD HULU LANGAT"}
+{"J":"1831","KodSekolah":"BEA4631","L":"879","NamaSekolah":"SMK PANDAN MEWAH","Negeri":"SELANGOR","P":"952","PPD":"PPD HULU LANGAT"}
+{"J":"2259","KodSekolah":"BEA4632","L":"1153","NamaSekolah":"SMK BANDAR RINCHING","Negeri":"SELANGOR","P":"1106","PPD":"PPD HULU LANGAT"}
+{"J":"2152","KodSekolah":"BEA4633","L":"1066","NamaSekolah":"SMK BANDAR SERI PUTRA","Negeri":"SELANGOR","P":"1086","PPD":"PPD HULU LANGAT"}
+{"J":"760","KodSekolah":"BEA4634","L":"397","NamaSekolah":"SMK DESA SERDANG","Negeri":"SELANGOR","P":"363","PPD":"PPD HULU LANGAT"}
+{"J":"966","KodSekolah":"BEB4068","L":"0","NamaSekolah":"SMK  CONVENT (M)","Negeri":"SELANGOR","P":"966","PPD":"PPD HULU LANGAT"}
+{"J":"1567","KodSekolah":"BEB4069","L":"1335","NamaSekolah":"SMK TINGGI KAJANG","Negeri":"SELANGOR","P":"232","PPD":"PPD HULU LANGAT"}
+{"J":"3438","KodSekolah":"BEB4070","L":"1673","NamaSekolah":"SMJK YU HUA","Negeri":"SELANGOR","P":"1765","PPD":"PPD HULU LANGAT"}
+{"J":"1919","KodSekolah":"BEB4071","L":"888","NamaSekolah":"SMK JALAN BUKIT","Negeri":"SELANGOR","P":"1031","PPD":"PPD HULU LANGAT"}
+{"J":"830","KodSekolah":"BFT4001","L":"383","NamaSekolah":"SAM HULU LANGAT","Negeri":"SELANGOR","P":"447","PPD":"PPD HULU LANGAT"}
+{"J":"650","KodSekolah":"BKA4001","L":"550","NamaSekolah":"KOLEJ VOKASIONAL KAJANG","Negeri":"SELANGOR","P":"100","PPD":"PPD HULU LANGAT"}
+{"J":"1035","KodSekolah":"BRA4001","L":"354","NamaSekolah":"SMKA MAAHAD HAMIDIAH","Negeri":"SELANGOR","P":"681","PPD":"PPD HULU LANGAT"}
+{"J":"767","KodSekolah":"BRA4003","L":"396","NamaSekolah":"SMA PERSEKUTUAN (SMBP)","Negeri":"SELANGOR","P":"371","PPD":"PPD HULU LANGAT"}
+{"J":"906","KodSekolah":"BBA5002","L":"499","NamaSekolah":"SK BATANG KALI","Negeri":"SELANGOR","P":"407","PPD":"PPD HULU SELANGOR"}
+{"J":"531","KodSekolah":"BBA5003","L":"286","NamaSekolah":"SK RASA","Negeri":"SELANGOR","P":"245","PPD":"PPD HULU SELANGOR"}
+{"J":"491","KodSekolah":"BBA5004","L":"264","NamaSekolah":"SK SG CHOH","Negeri":"SELANGOR","P":"227","PPD":"PPD HULU SELANGOR"}
+{"J":"213","KodSekolah":"BBA5005","L":"115","NamaSekolah":"SK SG SELISEK","Negeri":"SELANGOR","P":"98","PPD":"PPD HULU SELANGOR"}
+{"J":"876","KodSekolah":"BBA5006","L":"471","NamaSekolah":"SK ULU YAM BHARU","Negeri":"SELANGOR","P":"405","PPD":"PPD HULU SELANGOR"}
+{"J":"121","KodSekolah":"BBA5007","L":"58","NamaSekolah":"SK ULU YAM LAMA","Negeri":"SELANGOR","P":"63","PPD":"PPD HULU SELANGOR"}
+{"J":"524","KodSekolah":"BBA5008","L":"277","NamaSekolah":"SK HULU BERNAM","Negeri":"SELANGOR","P":"247","PPD":"PPD HULU SELANGOR"}
+{"J":"246","KodSekolah":"BBA5009","L":"125","NamaSekolah":"SK KUALA KUBU BHARU","Negeri":"SELANGOR","P":"121","PPD":"PPD HULU SELANGOR"}
+{"J":"204","KodSekolah":"BBA5010","L":"104","NamaSekolah":"SK KERLING","Negeri":"SELANGOR","P":"100","PPD":"PPD HULU SELANGOR"}
+{"J":"651","KodSekolah":"BBA5011","L":"353","NamaSekolah":"SK KALUMPANG","Negeri":"SELANGOR","P":"298","PPD":"PPD HULU SELANGOR"}
+{"J":"215","KodSekolah":"BBA5012","L":"110","NamaSekolah":"SK KG KUANTAN","Negeri":"SELANGOR","P":"105","PPD":"PPD HULU SELANGOR"}
+{"J":"281","KodSekolah":"BBA5013","L":"140","NamaSekolah":"SK GEDANGSA","Negeri":"SELANGOR","P":"141","PPD":"PPD HULU SELANGOR"}
+{"J":"443","KodSekolah":"BBA5014","L":"218","NamaSekolah":"SK SUNGAI BUAYA","Negeri":"SELANGOR","P":"225","PPD":"PPD HULU SELANGOR"}
+{"J":"378","KodSekolah":"BBA5015","L":"196","NamaSekolah":"SK KAMPUNG SOEHARTO","Negeri":"SELANGOR","P":"182","PPD":"PPD HULU SELANGOR"}
+{"J":"216","KodSekolah":"BBA5016","L":"109","NamaSekolah":"SK TUN ABDUL RAZAK","Negeri":"SELANGOR","P":"107","PPD":"PPD HULU SELANGOR"}
+{"J":"191","KodSekolah":"BBA5018","L":"101","NamaSekolah":"SK GESIR TENGAH","Negeri":"SELANGOR","P":"90","PPD":"PPD HULU SELANGOR"}
+{"J":"371","KodSekolah":"BBA5020","L":"187","NamaSekolah":"SK SG TENGI","Negeri":"SELANGOR","P":"184","PPD":"PPD HULU SELANGOR"}
+{"J":"113","KodSekolah":"BBA5021","L":"50","NamaSekolah":"SK SRI KELEDANG","Negeri":"SELANGOR","P":"63","PPD":"PPD HULU SELANGOR"}
+{"J":"1389","KodSekolah":"BBA5022","L":"715","NamaSekolah":"SK SERENDAH","Negeri":"SELANGOR","P":"674","PPD":"PPD HULU SELANGOR"}
+{"J":"1409","KodSekolah":"BBA5023","L":"705","NamaSekolah":"SK BUKIT BERUNTUNG","Negeri":"SELANGOR","P":"704","PPD":"PPD HULU SELANGOR"}
+{"J":"524","KodSekolah":"BBA5024","L":"282","NamaSekolah":"SK AMPANG PECAH","Negeri":"SELANGOR","P":"242","PPD":"PPD HULU SELANGOR"}
+{"J":"1534","KodSekolah":"BBA5025","L":"776","NamaSekolah":"SK BANDAR BARU BATANG KALI","Negeri":"SELANGOR","P":"758","PPD":"PPD HULU SELANGOR"}
+{"J":"1092","KodSekolah":"BBA5026","L":"558","NamaSekolah":"SK BANDAR SUNGAI BUAYA","Negeri":"SELANGOR","P":"534","PPD":"PPD HULU SELANGOR"}
+{"J":"95","KodSekolah":"BBA5027","L":"51","NamaSekolah":"SK SERI FAJAR","Negeri":"SELANGOR","P":"44","PPD":"PPD HULU SELANGOR"}
+{"J":"1638","KodSekolah":"BBA5028","L":"853","NamaSekolah":"SK TAMAN BUNGA RAYA (1)","Negeri":"SELANGOR","P":"785","PPD":"PPD HULU SELANGOR"}
+{"J":"137","KodSekolah":"BBA5029","L":"58","NamaSekolah":"SK LEMBAH BERINGIN","Negeri":"SELANGOR","P":"79","PPD":"PPD HULU SELANGOR"}
+{"J":"2169","KodSekolah":"BBA5030","L":"1118","NamaSekolah":"SK BUKIT SENTOSA","Negeri":"SELANGOR","P":"1051","PPD":"PPD HULU SELANGOR"}
+{"J":"615","KodSekolah":"BBA5031","L":"317","NamaSekolah":"SK ANTARA GAPI","Negeri":"SELANGOR","P":"298","PPD":"PPD HULU SELANGOR"}
+{"J":"1291","KodSekolah":"BBA5032","L":"686","NamaSekolah":"SK BUKIT BERUNTUNG 2","Negeri":"SELANGOR","P":"605","PPD":"PPD HULU SELANGOR"}
+{"J":"1327","KodSekolah":"BBA5033","L":"705","NamaSekolah":"SK TAMAN BUNGA RAYA 2","Negeri":"SELANGOR","P":"622","PPD":"PPD HULU SELANGOR"}
+{"J":"325","KodSekolah":"BBB5021","L":"156","NamaSekolah":"SK KUALA KUBU BARU SATU","Negeri":"SELANGOR","P":"169","PPD":"PPD HULU SELANGOR"}
+{"J":"268","KodSekolah":"BBB5023","L":"142","NamaSekolah":"SK KUALA KUBU BHARU DUA","Negeri":"SELANGOR","P":"126","PPD":"PPD HULU SELANGOR"}
+{"J":"482","KodSekolah":"BBC5023","L":"229","NamaSekolah":"SJK(C) BATANG KALI","Negeri":"SELANGOR","P":"253","PPD":"PPD HULU SELANGOR"}
+{"J":"430","KodSekolah":"BBC5024","L":"232","NamaSekolah":"SJK(C) BKT TANGGA","Negeri":"SELANGOR","P":"198","PPD":"PPD HULU SELANGOR"}
+{"J":"177","KodSekolah":"BBC5027","L":"102","NamaSekolah":"SJK(C) CHOONG CHEE","Negeri":"SELANGOR","P":"75","PPD":"PPD HULU SELANGOR"}
+{"J":"2","KodSekolah":"BBC5028","L":"2","NamaSekolah":"SJK(C) BUKIT FRASER","Negeri":"SELANGOR","P":"0","PPD":"PPD HULU SELANGOR"}
+{"J":"218","KodSekolah":"BBC5029","L":"113","NamaSekolah":"SJK(C) KALUMPANG","Negeri":"SELANGOR","P":"105","PPD":"PPD HULU SELANGOR"}
+{"J":"304","KodSekolah":"BBC5030","L":"171","NamaSekolah":"SJK(C) KAMPUNG GURNEY","Negeri":"SELANGOR","P":"133","PPD":"PPD HULU SELANGOR"}
+{"J":"168","KodSekolah":"BBC5031","L":"83","NamaSekolah":"SJK(C) KERLING","Negeri":"SELANGOR","P":"85","PPD":"PPD HULU SELANGOR"}
+{"J":"337","KodSekolah":"BBC5032","L":"172","NamaSekolah":"SJK(C) KHING MING","Negeri":"SELANGOR","P":"165","PPD":"PPD HULU SELANGOR"}
+{"J":"262","KodSekolah":"BBC5035","L":"146","NamaSekolah":"SJK(C) RASA","Negeri":"SELANGOR","P":"116","PPD":"PPD HULU SELANGOR"}
+{"J":"437","KodSekolah":"BBC5037","L":"210","NamaSekolah":"SJK(C) SERENDAH","Negeri":"SELANGOR","P":"227","PPD":"PPD HULU SELANGOR"}
+{"J":"319","KodSekolah":"BBD5041","L":"167","NamaSekolah":"SJK(T) LADANG BATANG KALI","Negeri":"SELANGOR","P":"152","PPD":"PPD HULU SELANGOR"}
+{"J":"37","KodSekolah":"BBD5043","L":"19","NamaSekolah":"SJK(T) LDG CHANGKAT ASA","Negeri":"SELANGOR","P":"18","PPD":"PPD HULU SELANGOR"}
+{"J":"41","KodSekolah":"BBD5044","L":"18","NamaSekolah":"SJK(T) LDG ESCOT","Negeri":"SELANGOR","P":"23","PPD":"PPD HULU SELANGOR"}
+{"J":"368","KodSekolah":"BBD5045","L":"188","NamaSekolah":"SJK(T) KUALA KUBU BHARU","Negeri":"SELANGOR","P":"180","PPD":"PPD HULU SELANGOR"}
+{"J":"54","KodSekolah":"BBD5047","L":"31","NamaSekolah":"SJK(T) LADANG KERLING","Negeri":"SELANGOR","P":"23","PPD":"PPD HULU SELANGOR"}
+{"J":"101","KodSekolah":"BBD5048","L":"52","NamaSekolah":"SJK(T) LADANG KALUMPANG","Negeri":"SELANGOR","P":"49","PPD":"PPD HULU SELANGOR"}
+{"J":"11","KodSekolah":"BBD5051","L":"8","NamaSekolah":"SJK(T) LDG LIMA BELAS","Negeri":"SELANGOR","P":"3","PPD":"PPD HULU SELANGOR"}
+{"J":"494","KodSekolah":"BBD5058","L":"254","NamaSekolah":"SJK(T) LDG SG CHOH","Negeri":"SELANGOR","P":"240","PPD":"PPD HULU SELANGOR"}
+{"J":"391","KodSekolah":"BBD5059","L":"200","NamaSekolah":"SJK(T) BUKIT BERUNTUNG","Negeri":"SELANGOR","P":"191","PPD":"PPD HULU SELANGOR"}
+{"J":"1117","KodSekolah":"BEA5061","L":"508","NamaSekolah":"SMK KUALA KUBU BHARU","Negeri":"SELANGOR","P":"609","PPD":"PPD HULU SELANGOR"}
+{"J":"511","KodSekolah":"BEA5062","L":"252","NamaSekolah":"SMK KAMPONG SOEHARTO","Negeri":"SELANGOR","P":"259","PPD":"PPD HULU SELANGOR"}
+{"J":"803","KodSekolah":"BEA5063","L":"371","NamaSekolah":"SMK SUNGAI CHOH","Negeri":"SELANGOR","P":"432","PPD":"PPD HULU SELANGOR"}
+{"J":"600","KodSekolah":"BEA5064","L":"305","NamaSekolah":"SMK KALUMPANG","Negeri":"SELANGOR","P":"295","PPD":"PPD HULU SELANGOR"}
+{"J":"252","KodSekolah":"BEA5065","L":"129","NamaSekolah":"SMK GEDANGSA","Negeri":"SELANGOR","P":"123","PPD":"PPD HULU SELANGOR"}
+{"J":"2170","KodSekolah":"BEA5066","L":"1081","NamaSekolah":"SMK BUKIT SENTOSA","Negeri":"SELANGOR","P":"1089","PPD":"PPD HULU SELANGOR"}
+{"J":"800","KodSekolah":"BEA5067","L":"389","NamaSekolah":"SM SAINS HULU SELANGOR","Negeri":"SELANGOR","P":"411","PPD":"PPD HULU SELANGOR"}
+{"J":"965","KodSekolah":"BEA5068","L":"478","NamaSekolah":"SMK AMPANG PECAH","Negeri":"SELANGOR","P":"487","PPD":"PPD HULU SELANGOR"}
+{"J":"1748","KodSekolah":"BEA5069","L":"883","NamaSekolah":"SMK BANDAR BARU BATANG KALI","Negeri":"SELANGOR","P":"865","PPD":"PPD HULU SELANGOR"}
+{"J":"1034","KodSekolah":"BEA5070","L":"510","NamaSekolah":"SMK BANDAR SUNGAI BUAYA","Negeri":"SELANGOR","P":"524","PPD":"PPD HULU SELANGOR"}
+{"J":"1861","KodSekolah":"BEA5071","L":"933","NamaSekolah":"SMK TAMAN BUNGA RAYA (1)","Negeri":"SELANGOR","P":"928","PPD":"PPD HULU SELANGOR"}
+{"J":"1751","KodSekolah":"BEA5072","L":"924","NamaSekolah":"SMK SERENDAH","Negeri":"SELANGOR","P":"827","PPD":"PPD HULU SELANGOR"}
+{"J":"1867","KodSekolah":"BEA5073","L":"935","NamaSekolah":"SMK BUKIT SENTOSA 2","Negeri":"SELANGOR","P":"932","PPD":"PPD HULU SELANGOR"}
+{"J":"1865","KodSekolah":"BEB5065","L":"922","NamaSekolah":"SMK SYED MASHOR","Negeri":"SELANGOR","P":"943","PPD":"PPD HULU SELANGOR"}
+{"J":"768","KodSekolah":"BEB5066","L":"396","NamaSekolah":"SMK DATO' HJ KAMARUDDIN","Negeri":"SELANGOR","P":"372","PPD":"PPD HULU SELANGOR"}
+{"J":"330","KodSekolah":"BFT5001","L":"147","NamaSekolah":"SAM SUNGAI SELISEK","Negeri":"SELANGOR","P":"183","PPD":"PPD HULU SELANGOR"}
+{"J":"921","KodSekolah":"BFT5002","L":"428","NamaSekolah":"SAMT KUALA KUBU BHARU","Negeri":"SELANGOR","P":"493","PPD":"PPD HULU SELANGOR"}
+{"J":"642","KodSekolah":"BBA0001","L":"325","NamaSekolah":"SK KLANG","Negeri":"SELANGOR","P":"317","PPD":"PPD KLANG"}
+{"J":"1232","KodSekolah":"BBA0002","L":"642","NamaSekolah":"SK TELOK GADONG","Negeri":"SELANGOR","P":"590","PPD":"PPD KLANG"}
+{"J":"762","KodSekolah":"BBA0003","L":"393","NamaSekolah":"SK PELABUHAN KELANG","Negeri":"SELANGOR","P":"369","PPD":"PPD KLANG"}
+{"J":"1393","KodSekolah":"BBA0004","L":"713","NamaSekolah":"SK TELOK MENEGON","Negeri":"SELANGOR","P":"680","PPD":"PPD KLANG"}
+{"J":"1838","KodSekolah":"BBA0005","L":"941","NamaSekolah":"SK BUKIT NAGA","Negeri":"SELANGOR","P":"897","PPD":"PPD KLANG"}
+{"J":"1997","KodSekolah":"BBA0006","L":"1063","NamaSekolah":"SK JALAN KEBUN","Negeri":"SELANGOR","P":"934","PPD":"PPD KLANG"}
+{"J":"1577","KodSekolah":"BBA0007","L":"790","NamaSekolah":"SK BATU BELAH","Negeri":"SELANGOR","P":"787","PPD":"PPD KLANG"}
+{"J":"2994","KodSekolah":"BBA0008","L":"1530","NamaSekolah":"SK RANTAU PANJANG","Negeri":"SELANGOR","P":"1464","PPD":"PPD KLANG"}
+{"J":"1875","KodSekolah":"BBA0009","L":"950","NamaSekolah":"SK SEMENTA","Negeri":"SELANGOR","P":"925","PPD":"PPD KLANG"}
+{"J":"709","KodSekolah":"BBA0010","L":"367","NamaSekolah":"SK KAPAR","Negeri":"SELANGOR","P":"342","PPD":"PPD KLANG"}
+{"J":"2001","KodSekolah":"BBA0011","L":"1031","NamaSekolah":"SK BUKIT KAPAR","Negeri":"SELANGOR","P":"970","PPD":"PPD KLANG"}
+{"J":"3249","KodSekolah":"BBA0012","L":"1600","NamaSekolah":"SK SUNGAI BINJAI","Negeri":"SELANGOR","P":"1649","PPD":"PPD KLANG"}
+{"J":"1501","KodSekolah":"BBA0013","L":"780","NamaSekolah":"SK PULAU INDAH","Negeri":"SELANGOR","P":"721","PPD":"PPD KLANG"}
+{"J":"485","KodSekolah":"BBA0014","L":"247","NamaSekolah":"SK TOK MUDA","Negeri":"SELANGOR","P":"238","PPD":"PPD KLANG"}
+{"J":"435","KodSekolah":"BBA0015","L":"300","NamaSekolah":"SK BUKIT KUDA","Negeri":"SELANGOR","P":"135","PPD":"PPD KLANG"}
+{"J":"825","KodSekolah":"BBA0016","L":"455","NamaSekolah":"SK KG RAJA UDA","Negeri":"SELANGOR","P":"370","PPD":"PPD KLANG"}
+{"J":"991","KodSekolah":"BBA0017","L":"533","NamaSekolah":"SK PANDAMARAN JAYA","Negeri":"SELANGOR","P":"458","PPD":"PPD KLANG"}
+{"J":"1332","KodSekolah":"BBA0018","L":"657","NamaSekolah":"SK KG JOHAN SETIA","Negeri":"SELANGOR","P":"675","PPD":"PPD KLANG"}
+{"J":"511","KodSekolah":"BBA0019","L":"241","NamaSekolah":"SK SUNGAI SERDANG","Negeri":"SELANGOR","P":"270","PPD":"PPD KLANG"}
+{"J":"805","KodSekolah":"BBA0021","L":"420","NamaSekolah":"SK KG PENDAMAR","Negeri":"SELANGOR","P":"385","PPD":"PPD KLANG"}
+{"J":"1273","KodSekolah":"BBA0022","L":"686","NamaSekolah":"SK TELOK GONG","Negeri":"SELANGOR","P":"587","PPD":"PPD KLANG"}
+{"J":"1178","KodSekolah":"BBA0023","L":"629","NamaSekolah":"SK TAMAN KLANG JAYA","Negeri":"SELANGOR","P":"549","PPD":"PPD KLANG"}
+{"J":"1330","KodSekolah":"BBA0025","L":"736","NamaSekolah":"SK TELOK PULAI","Negeri":"SELANGOR","P":"594","PPD":"PPD KLANG"}
+{"J":"1875","KodSekolah":"BBA0026","L":"932","NamaSekolah":"SK SUNGAI UDANG","Negeri":"SELANGOR","P":"943","PPD":"PPD KLANG"}
+{"J":"1476","KodSekolah":"BBA0028","L":"788","NamaSekolah":"SK PELABUHAN  UTARA","Negeri":"SELANGOR","P":"688","PPD":"PPD KLANG"}
+{"J":"724","KodSekolah":"BBA0029","L":"366","NamaSekolah":"SK ABDUL SAMAT","Negeri":"SELANGOR","P":"358","PPD":"PPD KLANG"}
+{"J":"1612","KodSekolah":"BBA0030","L":"801","NamaSekolah":"SK MERU","Negeri":"SELANGOR","P":"811","PPD":"PPD KLANG"}
+{"J":"1327","KodSekolah":"BBA0031","L":"690","NamaSekolah":"SK KAMPUNG IDAMAN","Negeri":"SELANGOR","P":"637","PPD":"PPD KLANG"}
+{"J":"845","KodSekolah":"BBA0032","L":"443","NamaSekolah":"SK TAMAN KLANG UTAMA","Negeri":"SELANGOR","P":"402","PPD":"PPD KLANG"}
+{"J":"835","KodSekolah":"BBA0033","L":"458","NamaSekolah":"SK KAMPUNG JAWA","Negeri":"SELANGOR","P":"377","PPD":"PPD KLANG"}
+{"J":"1788","KodSekolah":"BBA0034","L":"947","NamaSekolah":"SK TAMAN SRI ANDALAS","Negeri":"SELANGOR","P":"841","PPD":"PPD KLANG"}
+{"J":"412","KodSekolah":"BBA0035","L":"214","NamaSekolah":"SK TAMAN GEMBIRA","Negeri":"SELANGOR","P":"198","PPD":"PPD KLANG"}
+{"J":"1333","KodSekolah":"BBA0036","L":"713","NamaSekolah":"SK BUKIT TINGGI","Negeri":"SELANGOR","P":"620","PPD":"PPD KLANG"}
+{"J":"1408","KodSekolah":"BBA0037","L":"773","NamaSekolah":"SK BUKIT KEMUNING 2","Negeri":"SELANGOR","P":"635","PPD":"PPD KLANG"}
+{"J":"1276","KodSekolah":"BBA0038","L":"652","NamaSekolah":"SK MERU (2)","Negeri":"SELANGOR","P":"624","PPD":"PPD KLANG"}
+{"J":"1064","KodSekolah":"BBA0039","L":"519","NamaSekolah":"SK SUNGAI KAPAR INDAH","Negeri":"SELANGOR","P":"545","PPD":"PPD KLANG"}
+{"J":"708","KodSekolah":"BBA0040","L":"394","NamaSekolah":"SK BUKIT KEMUNING","Negeri":"SELANGOR","P":"314","PPD":"PPD KLANG"}
+{"J":"1200","KodSekolah":"BBA0041","L":"610","NamaSekolah":"SK KAMPUNG JAWA 2","Negeri":"SELANGOR","P":"590","PPD":"PPD KLANG"}
+{"J":"560","KodSekolah":"BBA0042","L":"306","NamaSekolah":"SK PULAU INDAH (2)","Negeri":"SELANGOR","P":"254","PPD":"PPD KLANG"}
+{"J":"1737","KodSekolah":"BBA0043","L":"869","NamaSekolah":"SK BUKIT RIMAU","Negeri":"SELANGOR","P":"868","PPD":"PPD KLANG"}
+{"J":"1390","KodSekolah":"BBA0044","L":"731","NamaSekolah":"SK BATU UNJUR","Negeri":"SELANGOR","P":"659","PPD":"PPD KLANG"}
+{"J":"216","KodSekolah":"BBA3030","L":"108","NamaSekolah":"SK BUKIT CERAKA","Negeri":"SELANGOR","P":"108","PPD":"PPD KLANG"}
+{"J":"799","KodSekolah":"BBB0024","L":"799","NamaSekolah":"SK METHODIST ACS","Negeri":"SELANGOR","P":"0","PPD":"PPD KLANG"}
+{"J":"395","KodSekolah":"BBB0025","L":"217","NamaSekolah":"SK (1) JALAN BATU TIGA","Negeri":"SELANGOR","P":"178","PPD":"PPD KLANG"}
+{"J":"158","KodSekolah":"BBB0026","L":"91","NamaSekolah":"SK (2) JALAN BATU TIGA","Negeri":"SELANGOR","P":"67","PPD":"PPD KLANG"}
+{"J":"416","KodSekolah":"BBB0027","L":"0","NamaSekolah":"SK CONVENT (1) (M)","Negeri":"SELANGOR","P":"416","PPD":"PPD KLANG"}
+{"J":"400","KodSekolah":"BBB0028","L":"0","NamaSekolah":"SK CONVENT (2) (M)","Negeri":"SELANGOR","P":"400","PPD":"PPD KLANG"}
+{"J":"415","KodSekolah":"BBB0029","L":"415","NamaSekolah":"SK LA SALLE","Negeri":"SELANGOR","P":"0","PPD":"PPD KLANG"}
+{"J":"307","KodSekolah":"BBB0030","L":"184","NamaSekolah":"SK (1) JALAN MERU","Negeri":"SELANGOR","P":"123","PPD":"PPD KLANG"}
+{"J":"237","KodSekolah":"BBB0031","L":"120","NamaSekolah":"SK (2) JALAN MERU","Negeri":"SELANGOR","P":"117","PPD":"PPD KLANG"}
+{"J":"936","KodSekolah":"BBB0032","L":"577","NamaSekolah":"SK METHODIST (M)","Negeri":"SELANGOR","P":"359","PPD":"PPD KLANG"}
+{"J":"869","KodSekolah":"BBB0033","L":"0","NamaSekolah":"SK PEREMPUAN METHODIST","Negeri":"SELANGOR","P":"869","PPD":"PPD KLANG"}
+{"J":"321","KodSekolah":"BBB0034","L":"183","NamaSekolah":"SK TENGKU BENDAHARA AZMAN (1)","Negeri":"SELANGOR","P":"138","PPD":"PPD KLANG"}
+{"J":"220","KodSekolah":"BBB0035","L":"124","NamaSekolah":"SK TENGKU BENDAHARA AZMAN (2)","Negeri":"SELANGOR","P":"96","PPD":"PPD KLANG"}
+{"J":"318","KodSekolah":"BBB0036","L":"48","NamaSekolah":"SK PEREMPUAN BUKIT KUDA","Negeri":"SELANGOR","P":"270","PPD":"PPD KLANG"}
+{"J":"638","KodSekolah":"BBB0037","L":"372","NamaSekolah":"SK (1) SIMPANG LIMA","Negeri":"SELANGOR","P":"266","PPD":"PPD KLANG"}
+{"J":"450","KodSekolah":"BBB0038","L":"256","NamaSekolah":"SK (2) SIMPANG LIMA","Negeri":"SELANGOR","P":"194","PPD":"PPD KLANG"}
+{"J":"452","KodSekolah":"BBB0039","L":"0","NamaSekolah":"SK ST ANNE'S CONVENT","Negeri":"SELANGOR","P":"452","PPD":"PPD KLANG"}
+{"J":"2020","KodSekolah":"BBC0040","L":"1075","NamaSekolah":"SJK(C) PEREMPUAN","Negeri":"SELANGOR","P":"945","PPD":"PPD KLANG"}
+{"J":"722","KodSekolah":"BBC0041","L":"376","NamaSekolah":"SJK(C) CHUEN MIN","Negeri":"SELANGOR","P":"346","PPD":"PPD KLANG"}
+{"J":"2286","KodSekolah":"BBC0042","L":"1178","NamaSekolah":"SJK(C) CHUNG HUA","Negeri":"SELANGOR","P":"1108","PPD":"PPD KLANG"}
+{"J":"2774","KodSekolah":"BBC0043","L":"1391","NamaSekolah":"SJK(C) HIN HUA","Negeri":"SELANGOR","P":"1383","PPD":"PPD KLANG"}
+{"J":"318","KodSekolah":"BBC0044","L":"146","NamaSekolah":"SJK(C) HWA LIEN","Negeri":"SELANGOR","P":"172","PPD":"PPD KLANG"}
+{"J":"131","KodSekolah":"BBC0045","L":"71","NamaSekolah":"SJK(C) KENG CHEE","Negeri":"SELANGOR","P":"60","PPD":"PPD KLANG"}
+{"J":"1308","KodSekolah":"BBC0046","L":"632","NamaSekolah":"SJK(C) KHE BENG","Negeri":"SELANGOR","P":"676","PPD":"PPD KLANG"}
+{"J":"1158","KodSekolah":"BBC0047","L":"599","NamaSekolah":"SJK(C) KONG HOE","Negeri":"SELANGOR","P":"559","PPD":"PPD KLANG"}
+{"J":"121","KodSekolah":"BBC0048","L":"65","NamaSekolah":"SJK(C) LEE MIN","Negeri":"SELANGOR","P":"56","PPD":"PPD KLANG"}
+{"J":"1284","KodSekolah":"BBC0049","L":"641","NamaSekolah":"SJK(C) PANDAMARAN 'A'","Negeri":"SELANGOR","P":"643","PPD":"PPD KLANG"}
+{"J":"2474","KodSekolah":"BBC0050","L":"1296","NamaSekolah":"SJK(C) PANDAMARAN 'B'","Negeri":"SELANGOR","P":"1178","PPD":"PPD KLANG"}
+{"J":"2005","KodSekolah":"BBC0051","L":"1010","NamaSekolah":"SJK(C) PIN HWA (1)","Negeri":"SELANGOR","P":"995","PPD":"PPD KLANG"}
+{"J":"1650","KodSekolah":"BBC0052","L":"843","NamaSekolah":"SJK(C) PUI YING","Negeri":"SELANGOR","P":"807","PPD":"PPD KLANG"}
+{"J":"145","KodSekolah":"BBC0053","L":"81","NamaSekolah":"SJK(C) SIN BIN","Negeri":"SELANGOR","P":"64","PPD":"PPD KLANG"}
+{"J":"968","KodSekolah":"BBC0054","L":"474","NamaSekolah":"SJK(C) SOO JIN","Negeri":"SELANGOR","P":"494","PPD":"PPD KLANG"}
+{"J":"277","KodSekolah":"BBC0055","L":"127","NamaSekolah":"SJK(C) TIONG HUA KOK BIN","Negeri":"SELANGOR","P":"150","PPD":"PPD KLANG"}
+{"J":"1518","KodSekolah":"BBC0056","L":"803","NamaSekolah":"SJK(C) TSHING NIAN","Negeri":"SELANGOR","P":"715","PPD":"PPD KLANG"}
+{"J":"446","KodSekolah":"BBC0057","L":"254","NamaSekolah":"SJK(C) WU TECK","Negeri":"SELANGOR","P":"192","PPD":"PPD KLANG"}
+{"J":"375","KodSekolah":"BBC0058","L":"182","NamaSekolah":"SJK(C) YING WAH","Negeri":"SELANGOR","P":"193","PPD":"PPD KLANG"}
+{"J":"1054","KodSekolah":"BBC0059","L":"532","NamaSekolah":"SJK(C) PIN HWA (2)","Negeri":"SELANGOR","P":"522","PPD":"PPD KLANG"}
+{"J":"2223","KodSekolah":"BBC0060","L":"1130","NamaSekolah":"SJK(C) TAMAN RASHNA","Negeri":"SELANGOR","P":"1093","PPD":"PPD KLANG"}
+{"J":"656","KodSekolah":"BBD0060","L":"331","NamaSekolah":"SJK(T) LADANG BATU AMPAT","Negeri":"SELANGOR","P":"325","PPD":"PPD KLANG"}
+{"J":"34","KodSekolah":"BBD0061","L":"20","NamaSekolah":"SJK(T) LADANG BRAFFERTON","Negeri":"SELANGOR","P":"14","PPD":"PPD KLANG"}
+{"J":"124","KodSekolah":"BBD0062","L":"69","NamaSekolah":"SJK(T) LADANG BUKIT RAJAH","Negeri":"SELANGOR","P":"55","PPD":"PPD KLANG"}
+{"J":"562","KodSekolah":"BBD0072","L":"272","NamaSekolah":"SJK(T) LADANG EMERALD","Negeri":"SELANGOR","P":"290","PPD":"PPD KLANG"}
+{"J":"761","KodSekolah":"BBD0074","L":"423","NamaSekolah":"SJK(T) LADANG HIGHLANDS","Negeri":"SELANGOR","P":"338","PPD":"PPD KLANG"}
+{"J":"208","KodSekolah":"BBD0075","L":"105","NamaSekolah":"SJK(T) LADANG JALAN ACOB","Negeri":"SELANGOR","P":"103","PPD":"PPD KLANG"}
+{"J":"83","KodSekolah":"BBD0076","L":"34","NamaSekolah":"SJK(T) JALAN TEPI SUNGAI","Negeri":"SELANGOR","P":"49","PPD":"PPD KLANG"}
+{"J":"920","KodSekolah":"BBD0077","L":"466","NamaSekolah":"SJK(T) PERSIARAN RAJA MUDA MUSA","Negeri":"SELANGOR","P":"454","PPD":"PPD KLANG"}
+{"J":"589","KodSekolah":"BBD0078","L":"298","NamaSekolah":"SJK(T) JALAN MERU","Negeri":"SELANGOR","P":"291","PPD":"PPD KLANG"}
+{"J":"957","KodSekolah":"BBD0079","L":"470","NamaSekolah":"SJK(T) METHODIST","Negeri":"SELANGOR","P":"487","PPD":"PPD KLANG"}
+{"J":"2464","KodSekolah":"BBD0084","L":"1262","NamaSekolah":"SJK(T) SIMPANG LIMA","Negeri":"SELANGOR","P":"1202","PPD":"PPD KLANG"}
+{"J":"625","KodSekolah":"BBD0092","L":"313","NamaSekolah":"SJK(T) LDG VALLAMBROSA","Negeri":"SELANGOR","P":"312","PPD":"PPD KLANG"}
+{"J":"229","KodSekolah":"BBD8464","L":"104","NamaSekolah":"SJK(T) LADANG NORTH HUMMOCK","Negeri":"SELANGOR","P":"125","PPD":"PPD KLANG"}
+{"J":"2240","KodSekolah":"BEA0091","L":"1155","NamaSekolah":"SMK RAJA MAHADI","Negeri":"SELANGOR","P":"1085","PPD":"PPD KLANG"}
+{"J":"1122","KodSekolah":"BEA0092","L":"662","NamaSekolah":"SMK RAJA LUMU","Negeri":"SELANGOR","P":"460","PPD":"PPD KLANG"}
+{"J":"1969","KodSekolah":"BEA0093","L":"966","NamaSekolah":"SMK TENGKU AMPUAN RAHIMAH","Negeri":"SELANGOR","P":"1003","PPD":"PPD KLANG"}
+{"J":"2295","KodSekolah":"BEA0094","L":"1296","NamaSekolah":"SMK TENGKU AMPUAN JEMAAH","Negeri":"SELANGOR","P":"999","PPD":"PPD KLANG"}
+{"J":"2273","KodSekolah":"BEA0095","L":"1798","NamaSekolah":"SMK TENGKU IDRIS SHAH","Negeri":"SELANGOR","P":"475","PPD":"PPD KLANG"}
+{"J":"898","KodSekolah":"BEA0096","L":"655","NamaSekolah":"SMK SULTAN ABDUL SAMAD","Negeri":"SELANGOR","P":"243","PPD":"PPD KLANG"}
+{"J":"1058","KodSekolah":"BEA0097","L":"550","NamaSekolah":"SMK PULAU INDAH","Negeri":"SELANGOR","P":"508","PPD":"PPD KLANG"}
+{"J":"716","KodSekolah":"BEA0099","L":"379","NamaSekolah":"SMK SRI ISTANA","Negeri":"SELANGOR","P":"337","PPD":"PPD KLANG"}
+{"J":"2663","KodSekolah":"BEA0100","L":"1331","NamaSekolah":"SMK RANTAU PANJANG","Negeri":"SELANGOR","P":"1332","PPD":"PPD KLANG"}
+{"J":"2050","KodSekolah":"BEA0101","L":"0","NamaSekolah":"SMK (P) KAPAR","Negeri":"SELANGOR","P":"2050","PPD":"PPD KLANG"}
+{"J":"1683","KodSekolah":"BEA0102","L":"874","NamaSekolah":"SMK PENDAMARAN JAYA","Negeri":"SELANGOR","P":"809","PPD":"PPD KLANG"}
+{"J":"2263","KodSekolah":"BEA0103","L":"1167","NamaSekolah":"SMK TELOK GADONG","Negeri":"SELANGOR","P":"1096","PPD":"PPD KLANG"}
+{"J":"2169","KodSekolah":"BEA0104","L":"1125","NamaSekolah":"SMK SRI ANDALAS","Negeri":"SELANGOR","P":"1044","PPD":"PPD KLANG"}
+{"J":"2929","KodSekolah":"BEA0105","L":"1467","NamaSekolah":"SMK JALAN KEBUN","Negeri":"SELANGOR","P":"1462","PPD":"PPD KLANG"}
+{"J":"2023","KodSekolah":"BEA0106","L":"1093","NamaSekolah":"SMK KAMPUNG JAWA","Negeri":"SELANGOR","P":"930","PPD":"PPD KLANG"}
+{"J":"1613","KodSekolah":"BEA0107","L":"804","NamaSekolah":"SMK TAMAN  KLANG UTAMA","Negeri":"SELANGOR","P":"809","PPD":"PPD KLANG"}
+{"J":"3000","KodSekolah":"BEA0108","L":"1481","NamaSekolah":"SMK KOTA KEMUNING","Negeri":"SELANGOR","P":"1519","PPD":"PPD KLANG"}
+{"J":"1124","KodSekolah":"BEA0109","L":"597","NamaSekolah":"SMK BANDAR BARU SULTAN SULEIMAN","Negeri":"SELANGOR","P":"527","PPD":"PPD KLANG"}
+{"J":"2781","KodSekolah":"BEA0110","L":"1311","NamaSekolah":"SMK SUNGAI KAPAR INDAH","Negeri":"SELANGOR","P":"1470","PPD":"PPD KLANG"}
+{"J":"1935","KodSekolah":"BEA0111","L":"891","NamaSekolah":"SMK SHAHBANDARAYA","Negeri":"SELANGOR","P":"1044","PPD":"PPD KLANG"}
+{"J":"2375","KodSekolah":"BEA0112","L":"1305","NamaSekolah":"SMK BATU UNJUR","Negeri":"SELANGOR","P":"1070","PPD":"PPD KLANG"}
+{"J":"412","KodSekolah":"BEA0113","L":"208","NamaSekolah":"SEKOLAH MENENGAH KEBANGSAAN BUKIT TINGGI KLANG","Negeri":"SELANGOR","P":"204","PPD":"PPD KLANG"}
+{"J":"1337","KodSekolah":"BEB0099","L":"1213","NamaSekolah":"SMK METHODIST (ACS)","Negeri":"SELANGOR","P":"124","PPD":"PPD KLANG"}
+{"J":"1174","KodSekolah":"BEB0100","L":"593","NamaSekolah":"SMJK CHUNG HWA","Negeri":"SELANGOR","P":"581","PPD":"PPD KLANG"}
+{"J":"1307","KodSekolah":"BEB0101","L":"0","NamaSekolah":"SMK CONVENT","Negeri":"SELANGOR","P":"1307","PPD":"PPD KLANG"}
+{"J":"1763","KodSekolah":"BEB0102","L":"1533","NamaSekolah":"SMK TINGGI KLANG","Negeri":"SELANGOR","P":"230","PPD":"PPD KLANG"}
+{"J":"3468","KodSekolah":"BEB0103","L":"1676","NamaSekolah":"SMJK KWANG HUA","Negeri":"SELANGOR","P":"1792","PPD":"PPD KLANG"}
+{"J":"1064","KodSekolah":"BEB0104","L":"1056","NamaSekolah":"SMK LA SALLE","Negeri":"SELANGOR","P":"8","PPD":"PPD KLANG"}
+{"J":"1668","KodSekolah":"BEB0105","L":"0","NamaSekolah":"SMK (P) METHODIST","Negeri":"SELANGOR","P":"1668","PPD":"PPD KLANG"}
+{"J":"1171","KodSekolah":"BEB0106","L":"0","NamaSekolah":"SMK (P) BUKIT KUDA","Negeri":"SELANGOR","P":"1171","PPD":"PPD KLANG"}
+{"J":"1360","KodSekolah":"BEB0108","L":"1188","NamaSekolah":"SMK DATO HAMZAH","Negeri":"SELANGOR","P":"172","PPD":"PPD KLANG"}
+{"J":"2075","KodSekolah":"BEB0109","L":"0","NamaSekolah":"SMK (P) RAJA ZARINA","Negeri":"SELANGOR","P":"2075","PPD":"PPD KLANG"}
+{"J":"4427","KodSekolah":"BEB0110","L":"2374","NamaSekolah":"SMK MERU","Negeri":"SELANGOR","P":"2053","PPD":"PPD KLANG"}
+{"J":"445","KodSekolah":"BEB0111","L":"217","NamaSekolah":"SMK PULAU KETAM","Negeri":"SELANGOR","P":"228","PPD":"PPD KLANG"}
+{"J":"1305","KodSekolah":"BFT0001","L":"505","NamaSekolah":"SAMT SULTAN HISAMUDDIN","Negeri":"SELANGOR","P":"800","PPD":"PPD KLANG"}
+{"J":"855","KodSekolah":"BFT0002","L":"375","NamaSekolah":"SAM HISAMUDDIN","Negeri":"SELANGOR","P":"480","PPD":"PPD KLANG"}
+{"J":"581","KodSekolah":"BFT0003","L":"293","NamaSekolah":"SAM NURUL IMAN","Negeri":"SELANGOR","P":"288","PPD":"PPD KLANG"}
+{"J":"626","KodSekolah":"BKE0001","L":"524","NamaSekolah":"KOLEJ VOKASIONAL KLANG","Negeri":"SELANGOR","P":"102","PPD":"PPD KLANG"}
+{"J":"778","KodSekolah":"BRA0001","L":"362","NamaSekolah":"KOLEJ ISLAM SULTAN ALAM SHAH (SMBP)","Negeri":"SELANGOR","P":"416","PPD":"PPD KLANG"}
+{"J":"573","KodSekolah":"BBA1002","L":"310","NamaSekolah":"SK SUNGAI BUAYA","Negeri":"SELANGOR","P":"263","PPD":"PPD KUALA LANGAT"}
+{"J":"318","KodSekolah":"BBA1003","L":"158","NamaSekolah":"SK BANDAR","Negeri":"SELANGOR","P":"160","PPD":"PPD KUALA LANGAT"}
+{"J":"417","KodSekolah":"BBA1004","L":"216","NamaSekolah":"SK SUNGAI MANGGIS","Negeri":"SELANGOR","P":"201","PPD":"PPD KUALA LANGAT"}
+{"J":"875","KodSekolah":"BBA1005","L":"456","NamaSekolah":"SK OLAK LEMPIT","Negeri":"SELANGOR","P":"419","PPD":"PPD KUALA LANGAT"}
+{"J":"571","KodSekolah":"BBA1006","L":"295","NamaSekolah":"SK LABOHAN DAGANG","Negeri":"SELANGOR","P":"276","PPD":"PPD KUALA LANGAT"}
+{"J":"1012","KodSekolah":"BBA1007","L":"495","NamaSekolah":"SK BKT CHANGGANG","Negeri":"SELANGOR","P":"517","PPD":"PPD KUALA LANGAT"}
+{"J":"1084","KodSekolah":"BBA1008","L":"568","NamaSekolah":"SK JENJAROM","Negeri":"SELANGOR","P":"516","PPD":"PPD KUALA LANGAT"}
+{"J":"1173","KodSekolah":"BBA1009","L":"612","NamaSekolah":"SK TELOK PANGLIMA GARANG","Negeri":"SELANGOR","P":"561","PPD":"PPD KUALA LANGAT"}
+{"J":"1775","KodSekolah":"BBA1010","L":"888","NamaSekolah":"SK KEBUN BAHARU","Negeri":"SELANGOR","P":"887","PPD":"PPD KUALA LANGAT"}
+{"J":"1446","KodSekolah":"BBA1011","L":"752","NamaSekolah":"SK SIJANGKANG","Negeri":"SELANGOR","P":"694","PPD":"PPD KUALA LANGAT"}
+{"J":"170","KodSekolah":"BBA1012","L":"87","NamaSekolah":"SK SG  BUMBUN (A)","Negeri":"SELANGOR","P":"83","PPD":"PPD KUALA LANGAT"}
+{"J":"158","KodSekolah":"BBA1013","L":"89","NamaSekolah":"SK SUNGAI JUDAH","Negeri":"SELANGOR","P":"69","PPD":"PPD KUALA LANGAT"}
+{"J":"92","KodSekolah":"BBA1014","L":"41","NamaSekolah":"SK BUKIT TADOM","Negeri":"SELANGOR","P":"51","PPD":"PPD KUALA LANGAT"}
+{"J":"332","KodSekolah":"BBA1015","L":"182","NamaSekolah":"SK SERI CHEDING","Negeri":"SELANGOR","P":"150","PPD":"PPD KUALA LANGAT"}
+{"J":"142","KodSekolah":"BBA1016","L":"68","NamaSekolah":"SK (ASLI) BKT CHEDING","Negeri":"SELANGOR","P":"74","PPD":"PPD KUALA LANGAT"}
+{"J":"576","KodSekolah":"BBA1023","L":"309","NamaSekolah":"SK TG SEPAT","Negeri":"SELANGOR","P":"267","PPD":"PPD KUALA LANGAT"}
+{"J":"424","KodSekolah":"BBA1024","L":"198","NamaSekolah":"SK BATU LAUT","Negeri":"SELANGOR","P":"226","PPD":"PPD KUALA LANGAT"}
+{"J":"305","KodSekolah":"BBA1025","L":"168","NamaSekolah":"SK KAMPONG ENDAH","Negeri":"SELANGOR","P":"137","PPD":"PPD KUALA LANGAT"}
+{"J":"274","KodSekolah":"BBA1026","L":"144","NamaSekolah":"SK MORIB","Negeri":"SELANGOR","P":"130","PPD":"PPD KUALA LANGAT"}
+{"J":"1117","KodSekolah":"BBA1027","L":"614","NamaSekolah":"SK KANCHONG DARAT","Negeri":"SELANGOR","P":"503","PPD":"PPD KUALA LANGAT"}
+{"J":"477","KodSekolah":"BBA1028","L":"228","NamaSekolah":"SK SG LANG","Negeri":"SELANGOR","P":"249","PPD":"PPD KUALA LANGAT"}
+{"J":"392","KodSekolah":"BBA1029","L":"209","NamaSekolah":"SK SERI LANANG","Negeri":"SELANGOR","P":"183","PPD":"PPD KUALA LANGAT"}
+{"J":"159","KodSekolah":"BBA1030","L":"76","NamaSekolah":"SK PERMATANG PASIR","Negeri":"SELANGOR","P":"83","PPD":"PPD KUALA LANGAT"}
+{"J":"263","KodSekolah":"BBA1031","L":"122","NamaSekolah":"SK SG KELAMBU","Negeri":"SELANGOR","P":"141","PPD":"PPD KUALA LANGAT"}
+{"J":"827","KodSekolah":"BBA1032","L":"413","NamaSekolah":"SK KAMPUNG MEDAN","Negeri":"SELANGOR","P":"414","PPD":"PPD KUALA LANGAT"}
+{"J":"818","KodSekolah":"BBA1033","L":"413","NamaSekolah":"SK JALAN TANJUNG","Negeri":"SELANGOR","P":"405","PPD":"PPD KUALA LANGAT"}
+{"J":"184","KodSekolah":"BBA1034","L":"94","NamaSekolah":"SK KANCHONG TENGAH","Negeri":"SELANGOR","P":"90","PPD":"PPD KUALA LANGAT"}
+{"J":"696","KodSekolah":"BBA1035","L":"357","NamaSekolah":"SK SIJANGKANG JAYA","Negeri":"SELANGOR","P":"339","PPD":"PPD KUALA LANGAT"}
+{"J":"1073","KodSekolah":"BBA1036","L":"552","NamaSekolah":"SK RTB BUKIT CHANGGANG","Negeri":"SELANGOR","P":"521","PPD":"PPD KUALA LANGAT"}
+{"J":"946","KodSekolah":"BBA1037","L":"482","NamaSekolah":"SK JUGRA","Negeri":"SELANGOR","P":"464","PPD":"PPD KUALA LANGAT"}
+{"J":"802","KodSekolah":"BBA1038","L":"403","NamaSekolah":"SK BANDAR BANTING","Negeri":"SELANGOR","P":"399","PPD":"PPD KUALA LANGAT"}
+{"J":"198","KodSekolah":"BBA1039","L":"106","NamaSekolah":"SK (ASLI) BUKIT KEMANDOL","Negeri":"SELANGOR","P":"92","PPD":"PPD KUALA LANGAT"}
+{"J":"42","KodSekolah":"BBA9207","L":"23","NamaSekolah":"SK KAMPONG BUSUT ASLI","Negeri":"SELANGOR","P":"19","PPD":"PPD KUALA LANGAT"}
+{"J":"377","KodSekolah":"BBB1031","L":"194","NamaSekolah":"SK METHODIST","Negeri":"SELANGOR","P":"183","PPD":"PPD KUALA LANGAT"}
+{"J":"1076","KodSekolah":"BBB1032","L":"555","NamaSekolah":"SK SRI LANGAT (INTEG)","Negeri":"SELANGOR","P":"521","PPD":"PPD KUALA LANGAT"}
+{"J":"1245","KodSekolah":"BBC1035","L":"653","NamaSekolah":"SJK(C) CHOONG HUA","Negeri":"SELANGOR","P":"592","PPD":"PPD KUALA LANGAT"}
+{"J":"1632","KodSekolah":"BBC1036","L":"855","NamaSekolah":"SJK(C) JENJAROM","Negeri":"SELANGOR","P":"777","PPD":"PPD KUALA LANGAT"}
+{"J":"401","KodSekolah":"BBC1037","L":"205","NamaSekolah":"SJK(C) KAH WAH","Negeri":"SELANGOR","P":"196","PPD":"PPD KUALA LANGAT"}
+{"J":"434","KodSekolah":"BBC1038","L":"235","NamaSekolah":"SJK(C) PENG MING","Negeri":"SELANGOR","P":"199","PPD":"PPD KUALA LANGAT"}
+{"J":"162","KodSekolah":"BBC1040","L":"86","NamaSekolah":"SJK(C) SIMPANG MORIB","Negeri":"SELANGOR","P":"76","PPD":"PPD KUALA LANGAT"}
+{"J":"731","KodSekolah":"BBC1041","L":"364","NamaSekolah":"SJK(C) TANJONG SEPAT","Negeri":"SELANGOR","P":"367","PPD":"PPD KUALA LANGAT"}
+{"J":"248","KodSekolah":"BBC1043","L":"130","NamaSekolah":"SJK(C) TIONG NAM","Negeri":"SELANGOR","P":"118","PPD":"PPD KUALA LANGAT"}
+{"J":"294","KodSekolah":"BBD1047","L":"153","NamaSekolah":"SJK(T) SG MANGGIS","Negeri":"SELANGOR","P":"141","PPD":"PPD KUALA LANGAT"}
+{"J":"103","KodSekolah":"BBD1053","L":"57","NamaSekolah":"SJK(T) LDG GADONG","Negeri":"SELANGOR","P":"46","PPD":"PPD KUALA LANGAT"}
+{"J":"211","KodSekolah":"BBD1054","L":"116","NamaSekolah":"SJK(T) LDG JUGRA","Negeri":"SELANGOR","P":"95","PPD":"PPD KUALA LANGAT"}
+{"J":"214","KodSekolah":"BBD1055","L":"98","NamaSekolah":"SJK(T) JENJAROM","Negeri":"SELANGOR","P":"116","PPD":"PPD KUALA LANGAT"}
+{"J":"162","KodSekolah":"BBD1058","L":"78","NamaSekolah":"SJK(T) SIMPANG MORIB","Negeri":"SELANGOR","P":"84","PPD":"PPD KUALA LANGAT"}
+{"J":"75","KodSekolah":"BBD1060","L":"46","NamaSekolah":"SJK(T) SUNGAI SEDU","Negeri":"SELANGOR","P":"29","PPD":"PPD KUALA LANGAT"}
+{"J":"141","KodSekolah":"BBD1061","L":"72","NamaSekolah":"SJK(T) SUNGAI BUAYA","Negeri":"SELANGOR","P":"69","PPD":"PPD KUALA LANGAT"}
+{"J":"625","KodSekolah":"BBD1062","L":"304","NamaSekolah":"SJK(T) TELOK PANGLIMA GARANG","Negeri":"SELANGOR","P":"321","PPD":"PPD KUALA LANGAT"}
+{"J":"628","KodSekolah":"BBD1063","L":"290","NamaSekolah":"SJK(T) PUSAT TELOK DATOK","Negeri":"SELANGOR","P":"338","PPD":"PPD KUALA LANGAT"}
+{"J":"120","KodSekolah":"BBD1065","L":"65","NamaSekolah":"SJK(T) LADANG TUMBUK","Negeri":"SELANGOR","P":"55","PPD":"PPD KUALA LANGAT"}
+{"J":"35","KodSekolah":"BBD1066","L":"19","NamaSekolah":"SJK(T) PULAU CAREY SELATAN","Negeri":"SELANGOR","P":"16","PPD":"PPD KUALA LANGAT"}
+{"J":"85","KodSekolah":"BBD1067","L":"41","NamaSekolah":"SJK(T) PULAU CAREY BARAT","Negeri":"SELANGOR","P":"44","PPD":"PPD KUALA LANGAT"}
+{"J":"31","KodSekolah":"BBD1068","L":"17","NamaSekolah":"SJK(T) PULAU CAREY TIMUR","Negeri":"SELANGOR","P":"14","PPD":"PPD KUALA LANGAT"}
+{"J":"1529","KodSekolah":"BEA1064","L":"742","NamaSekolah":"SMK JENJAROM","Negeri":"SELANGOR","P":"787","PPD":"PPD KUALA LANGAT"}
+{"J":"1721","KodSekolah":"BEA1065","L":"860","NamaSekolah":"SMK JUGRA","Negeri":"SELANGOR","P":"861","PPD":"PPD KUALA LANGAT"}
+{"J":"1313","KodSekolah":"BEA1066","L":"585","NamaSekolah":"SMK TELOK DATOK","Negeri":"SELANGOR","P":"728","PPD":"PPD KUALA LANGAT"}
+{"J":"625","KodSekolah":"BEA1068","L":"329","NamaSekolah":"SMK BATU LAUT","Negeri":"SELANGOR","P":"296","PPD":"PPD KUALA LANGAT"}
+{"J":"3020","KodSekolah":"BEA1069","L":"1493","NamaSekolah":"SMK TELOK PANGLIMA GARANG","Negeri":"SELANGOR","P":"1527","PPD":"PPD KUALA LANGAT"}
+{"J":"1647","KodSekolah":"BEA1070","L":"864","NamaSekolah":"SMK BUKIT CHANGGANG","Negeri":"SELANGOR","P":"783","PPD":"PPD KUALA LANGAT"}
+{"J":"1505","KodSekolah":"BEA1071","L":"726","NamaSekolah":"SMK BANTING","Negeri":"SELANGOR","P":"779","PPD":"PPD KUALA LANGAT"}
+{"J":"1944","KodSekolah":"BEA1072","L":"1018","NamaSekolah":"SMK SIJANGKANG JAYA","Negeri":"SELANGOR","P":"926","PPD":"PPD KUALA LANGAT"}
+{"J":"1692","KodSekolah":"BEA1073","L":"868","NamaSekolah":"SMK BANDAR BANTING","Negeri":"SELANGOR","P":"824","PPD":"PPD KUALA LANGAT"}
+{"J":"840","KodSekolah":"BEA1074","L":"405","NamaSekolah":"SEKOLAH MENENGAH SAINS BANTING","Negeri":"SELANGOR","P":"435","PPD":"PPD KUALA LANGAT"}
+{"J":"1291","KodSekolah":"BEB1069","L":"660","NamaSekolah":"SMK METHODIST","Negeri":"SELANGOR","P":"631","PPD":"PPD KUALA LANGAT"}
+{"J":"127","KodSekolah":"BEB1070","L":"43","NamaSekolah":"KOLEJ VOKASIONAL SULTAN ABDUL SAMAD","Negeri":"SELANGOR","P":"84","PPD":"PPD KUALA LANGAT"}
+{"J":"901","KodSekolah":"BEB1072","L":"453","NamaSekolah":"SMK TANJUNG SEPAT","Negeri":"SELANGOR","P":"448","PPD":"PPD KUALA LANGAT"}
+{"J":"833","KodSekolah":"BEB1073","L":"393","NamaSekolah":"SMK SUNGAI MANGGIS","Negeri":"SELANGOR","P":"440","PPD":"PPD KUALA LANGAT"}
+{"J":"258","KodSekolah":"BEB1074","L":"144","NamaSekolah":"SMK PULAU CAREY","Negeri":"SELANGOR","P":"114","PPD":"PPD KUALA LANGAT"}
+{"J":"710","KodSekolah":"BFT1001","L":"339","NamaSekolah":"SAM UNWANUS SAADAH","Negeri":"SELANGOR","P":"371","PPD":"PPD KUALA LANGAT"}
+{"J":"1120","KodSekolah":"BFT1002","L":"500","NamaSekolah":"SAMT TENGKU AMPUAN RAHIMAH","Negeri":"SELANGOR","P":"620","PPD":"PPD KUALA LANGAT"}
+{"J":"746","KodSekolah":"BBA3001","L":"353","NamaSekolah":"SK ASSAM JAWA (INTEG)","Negeri":"SELANGOR","P":"393","PPD":"PPD KUALA SELANGOR"}
+{"J":"916","KodSekolah":"BBA3002","L":"467","NamaSekolah":"SK BKT BADONG","Negeri":"SELANGOR","P":"449","PPD":"PPD KUALA SELANGOR"}
+{"J":"428","KodSekolah":"BBA3003","L":"224","NamaSekolah":"SK BKT KERAYONG","Negeri":"SELANGOR","P":"204","PPD":"PPD KUALA SELANGOR"}
+{"J":"1660","KodSekolah":"BBA3004","L":"863","NamaSekolah":"SK DATO' MAHARAJA LELA","Negeri":"SELANGOR","P":"797","PPD":"PPD KUALA SELANGOR"}
+{"J":"358","KodSekolah":"BBA3005","L":"175","NamaSekolah":"SK TAMBAK JAWA","Negeri":"SELANGOR","P":"183","PPD":"PPD KUALA SELANGOR"}
+{"J":"376","KodSekolah":"BBA3006","L":"186","NamaSekolah":"SK JERAM","Negeri":"SELANGOR","P":"190","PPD":"PPD KUALA SELANGOR"}
+{"J":"624","KodSekolah":"BBA3007","L":"355","NamaSekolah":"SK JERAM BT 20","Negeri":"SELANGOR","P":"269","PPD":"PPD KUALA SELANGOR"}
+{"J":"272","KodSekolah":"BBA3008","L":"143","NamaSekolah":"SK JAYA SETIA","Negeri":"SELANGOR","P":"129","PPD":"PPD KUALA SELANGOR"}
+{"J":"162","KodSekolah":"BBA3009","L":"87","NamaSekolah":"SK PASANGAN","Negeri":"SELANGOR","P":"75","PPD":"PPD KUALA SELANGOR"}
+{"J":"388","KodSekolah":"BBA3010","L":"198","NamaSekolah":"SK RANTAU PANJANG","Negeri":"SELANGOR","P":"190","PPD":"PPD KUALA SELANGOR"}
+{"J":"500","KodSekolah":"BBA3011","L":"234","NamaSekolah":"SK IJOK","Negeri":"SELANGOR","P":"266","PPD":"PPD KUALA SELANGOR"}
+{"J":"225","KodSekolah":"BBA3012","L":"125","NamaSekolah":"SK TANJUNG KERAMAT","Negeri":"SELANGOR","P":"100","PPD":"PPD KUALA SELANGOR"}
+{"J":"273","KodSekolah":"BBA3013","L":"137","NamaSekolah":"SK BKT BELIMBING","Negeri":"SELANGOR","P":"136","PPD":"PPD KUALA SELANGOR"}
+{"J":"362","KodSekolah":"BBA3014","L":"180","NamaSekolah":"SK KUALA SELANGOR","Negeri":"SELANGOR","P":"182","PPD":"PPD KUALA SELANGOR"}
+{"J":"566","KodSekolah":"BBA3015","L":"313","NamaSekolah":"SK TANJONG KARANG","Negeri":"SELANGOR","P":"253","PPD":"PPD KUALA SELANGOR"}
+{"J":"440","KodSekolah":"BBA3016","L":"235","NamaSekolah":"SK SUNGAI BURONG","Negeri":"SELANGOR","P":"205","PPD":"PPD KUALA SELANGOR"}
+{"J":"364","KodSekolah":"BBA3017","L":"201","NamaSekolah":"SK SRI TIRAM","Negeri":"SELANGOR","P":"163","PPD":"PPD KUALA SELANGOR"}
+{"J":"566","KodSekolah":"BBA3018","L":"311","NamaSekolah":"SK DATO' MANAN (INTEG)","Negeri":"SELANGOR","P":"255","PPD":"PPD KUALA SELANGOR"}
+{"J":"166","KodSekolah":"BBA3019","L":"84","NamaSekolah":"SK SERI GAMBUT","Negeri":"SELANGOR","P":"82","PPD":"PPD KUALA SELANGOR"}
+{"J":"550","KodSekolah":"BBA3020","L":"306","NamaSekolah":"SK SUNGAI SIREH","Negeri":"SELANGOR","P":"244","PPD":"PPD KUALA SELANGOR"}
+{"J":"325","KodSekolah":"BBA3021","L":"172","NamaSekolah":"SK PARIT EMPAT","Negeri":"SELANGOR","P":"153","PPD":"PPD KUALA SELANGOR"}
+{"J":"514","KodSekolah":"BBA3022","L":"254","NamaSekolah":"SK PARIT MAHANG","Negeri":"SELANGOR","P":"260","PPD":"PPD KUALA SELANGOR"}
+{"J":"236","KodSekolah":"BBA3024","L":"126","NamaSekolah":"SK JALAN RAJA MUSA","Negeri":"SELANGOR","P":"110","PPD":"PPD KUALA SELANGOR"}
+{"J":"455","KodSekolah":"BBA3025","L":"245","NamaSekolah":"SK SUNGAI TERAP","Negeri":"SELANGOR","P":"210","PPD":"PPD KUALA SELANGOR"}
+{"J":"245","KodSekolah":"BBA3026","L":"132","NamaSekolah":"SK PARIT SERONG","Negeri":"SELANGOR","P":"113","PPD":"PPD KUALA SELANGOR"}
+{"J":"329","KodSekolah":"BBA3028","L":"168","NamaSekolah":"SK SAWAH SEMPADAN","Negeri":"SELANGOR","P":"161","PPD":"PPD KUALA SELANGOR"}
+{"J":"338","KodSekolah":"BBA3029","L":"171","NamaSekolah":"SK BERJAYA","Negeri":"SELANGOR","P":"167","PPD":"PPD KUALA SELANGOR"}
+{"J":"1204","KodSekolah":"BBA3031","L":"643","NamaSekolah":"SK BANDAR BARU","Negeri":"SELANGOR","P":"561","PPD":"PPD KUALA SELANGOR"}
+{"J":"431","KodSekolah":"BBA3032","L":"221","NamaSekolah":"SK BESTARI JAYA","Negeri":"SELANGOR","P":"210","PPD":"PPD KUALA SELANGOR"}
+{"J":"782","KodSekolah":"BBA3033","L":"431","NamaSekolah":"SK PUNCAK ALAM","Negeri":"SELANGOR","P":"351","PPD":"PPD KUALA SELANGOR"}
+{"J":"3119","KodSekolah":"BBA3034","L":"1586","NamaSekolah":"SK SAUJANA UTAMA IJOK","Negeri":"SELANGOR","P":"1533","PPD":"PPD KUALA SELANGOR"}
+{"J":"2259","KodSekolah":"BBA3035","L":"1157","NamaSekolah":"SK PUNCAK ALAM 2","Negeri":"SELANGOR","P":"1102","PPD":"PPD KUALA SELANGOR"}
+{"J":"1549","KodSekolah":"BBA3036","L":"806","NamaSekolah":"SK SERI PRISTANA","Negeri":"SELANGOR","P":"743","PPD":"PPD KUALA SELANGOR"}
+{"J":"1170","KodSekolah":"BBA3037","L":"602","NamaSekolah":"SK PUNCAK ALAM 3","Negeri":"SELANGOR","P":"568","PPD":"PPD KUALA SELANGOR"}
+{"J":"1019","KodSekolah":"BBA3038","L":"534","NamaSekolah":"SK DESA AMAN","Negeri":"SELANGOR","P":"485","PPD":"PPD KUALA SELANGOR"}
+{"J":"186","KodSekolah":"BBB3030","L":"86","NamaSekolah":"SK SULTAN ABDUL AZIZ","Negeri":"SELANGOR","P":"100","PPD":"PPD KUALA SELANGOR"}
+{"J":"898","KodSekolah":"BBB3033","L":"454","NamaSekolah":"SK BATU 9, JALAN BOMBA","Negeri":"SELANGOR","P":"444","PPD":"PPD KUALA SELANGOR"}
+{"J":"353","KodSekolah":"BBC3034","L":"174","NamaSekolah":"SJK(C) AIK THEE","Negeri":"SELANGOR","P":"179","PPD":"PPD KUALA SELANGOR"}
+{"J":"90","KodSekolah":"BBC3035","L":"45","NamaSekolah":"SJK(C) BAGAN PASIR","Negeri":"SELANGOR","P":"45","PPD":"PPD KUALA SELANGOR"}
+{"J":"335","KodSekolah":"BBC3036","L":"182","NamaSekolah":"SJK(C) CHUNG WAH","Negeri":"SELANGOR","P":"153","PPD":"PPD KUALA SELANGOR"}
+{"J":"363","KodSekolah":"BBC3037","L":"182","NamaSekolah":"SJK(C) IJOK","Negeri":"SELANGOR","P":"181","PPD":"PPD KUALA SELANGOR"}
+{"J":"330","KodSekolah":"BBC3038","L":"181","NamaSekolah":"SJK(C) KHAI TEE","Negeri":"SELANGOR","P":"149","PPD":"PPD KUALA SELANGOR"}
+{"J":"119","KodSekolah":"BBC3040","L":"62","NamaSekolah":"SJK(C) LIAT CHOON","Negeri":"SELANGOR","P":"57","PPD":"PPD KUALA SELANGOR"}
+{"J":"208","KodSekolah":"BBC3041","L":"100","NamaSekolah":"SJK(C) MING TEE","Negeri":"SELANGOR","P":"108","PPD":"PPD KUALA SELANGOR"}
+{"J":"70","KodSekolah":"BBC3042","L":"37","NamaSekolah":"SJK(C) PUI CHI","Negeri":"SELANGOR","P":"33","PPD":"PPD KUALA SELANGOR"}
+{"J":"63","KodSekolah":"BBC3043","L":"33","NamaSekolah":"SJK(C) PUI TEH","Negeri":"SELANGOR","P":"30","PPD":"PPD KUALA SELANGOR"}
+{"J":"441","KodSekolah":"BBC3044","L":"229","NamaSekolah":"SJK(C) TANJONG KARANG","Negeri":"SELANGOR","P":"212","PPD":"PPD KUALA SELANGOR"}
+{"J":"140","KodSekolah":"BBC3045","L":"71","NamaSekolah":"SJK(C) YIT KHWAN","Negeri":"SELANGOR","P":"69","PPD":"PPD KUALA SELANGOR"}
+{"J":"204","KodSekolah":"BBC3047","L":"110","NamaSekolah":"SJK(C) YUK CHIH","Negeri":"SELANGOR","P":"94","PPD":"PPD KUALA SELANGOR"}
+{"J":"651","KodSekolah":"BBD3048","L":"328","NamaSekolah":"SJK(T) BESTARI JAYA","Negeri":"SELANGOR","P":"323","PPD":"PPD KUALA SELANGOR"}
+{"J":"38","KodSekolah":"BBD3049","L":"14","NamaSekolah":"SJK(T) LDG BRAUNSTON","Negeri":"SELANGOR","P":"24","PPD":"PPD KUALA SELANGOR"}
+{"J":"161","KodSekolah":"BBD3051","L":"72","NamaSekolah":"SJK(T) LDG BUKIT CHERAKA","Negeri":"SELANGOR","P":"89","PPD":"PPD KUALA SELANGOR"}
+{"J":"3","KodSekolah":"BBD3052","L":"3","NamaSekolah":"SJK(T) LDG BKT IJOK","Negeri":"SELANGOR","P":"0","PPD":"PPD KUALA SELANGOR"}
+{"J":"99","KodSekolah":"BBD3055","L":"46","NamaSekolah":"SJK(T) LDG COALFIELDS","Negeri":"SELANGOR","P":"53","PPD":"PPD KUALA SELANGOR"}
+{"J":"63","KodSekolah":"BBD3056","L":"23","NamaSekolah":"SJK(T) GHANDIJI","Negeri":"SELANGOR","P":"40","PPD":"PPD KUALA SELANGOR"}
+{"J":"10","KodSekolah":"BBD3057","L":"5","NamaSekolah":"SJK(T) LDG HOPEFUL","Negeri":"SELANGOR","P":"5","PPD":"PPD KUALA SELANGOR"}
+{"J":"16","KodSekolah":"BBD3058","L":"10","NamaSekolah":"SJK(T) LDG KG BARU","Negeri":"SELANGOR","P":"6","PPD":"PPD KUALA SELANGOR"}
+{"J":"49","KodSekolah":"BBD3060","L":"18","NamaSekolah":"SJK(T) LADANG SUNGAI TERAP","Negeri":"SELANGOR","P":"31","PPD":"PPD KUALA SELANGOR"}
+{"J":"86","KodSekolah":"BBD3061","L":"39","NamaSekolah":"SJK(T) LDG KUALA SELANGOR","Negeri":"SELANGOR","P":"47","PPD":"PPD KUALA SELANGOR"}
+{"J":"55","KodSekolah":"BBD3064","L":"27","NamaSekolah":"SJK(T) LDG RAJA MUSA","Negeri":"SELANGOR","P":"28","PPD":"PPD KUALA SELANGOR"}
+{"J":"26","KodSekolah":"BBD3065","L":"16","NamaSekolah":"SJK(T) BUKIT ROTAN BARU","Negeri":"SELANGOR","P":"10","PPD":"PPD KUALA SELANGOR"}
+{"J":"70","KodSekolah":"BBD3066","L":"36","NamaSekolah":"SJK(T) LDG RIVERSIDE","Negeri":"SELANGOR","P":"34","PPD":"PPD KUALA SELANGOR"}
+{"J":"99","KodSekolah":"BBD3068","L":"50","NamaSekolah":"SJK(T) LDG SELANGOR RIVER","Negeri":"SELANGOR","P":"49","PPD":"PPD KUALA SELANGOR"}
+{"J":"32","KodSekolah":"BBD3069","L":"21","NamaSekolah":"SJK(T) LDG SG BULOH","Negeri":"SELANGOR","P":"11","PPD":"PPD KUALA SELANGOR"}
+{"J":"39","KodSekolah":"BBD3071","L":"14","NamaSekolah":"SJK(T) LDG SG RAMBAI","Negeri":"SELANGOR","P":"25","PPD":"PPD KUALA SELANGOR"}
+{"J":"53","KodSekolah":"BBD3072","L":"29","NamaSekolah":"SJK(T) LADANG TUAN MEE","Negeri":"SELANGOR","P":"24","PPD":"PPD KUALA SELANGOR"}
+{"J":"556","KodSekolah":"BBD3073","L":"284","NamaSekolah":"SJK(T) VAGEESAR","Negeri":"SELANGOR","P":"272","PPD":"PPD KUALA SELANGOR"}
+{"J":"1","KodSekolah":"BBD5052","L":"0","NamaSekolah":"SJK(T) LADANG MINYAK","Negeri":"SELANGOR","P":"1","PPD":"PPD KUALA SELANGOR"}
+{"J":"59","KodSekolah":"BBD5055","L":"30","NamaSekolah":"SJK(T) LDG NIGEL GARDNER","Negeri":"SELANGOR","P":"29","PPD":"PPD KUALA SELANGOR"}
+{"J":"16","KodSekolah":"BBD5061","L":"11","NamaSekolah":"SJK(T) LDG MARY","Negeri":"SELANGOR","P":"5","PPD":"PPD KUALA SELANGOR"}
+{"J":"51","KodSekolah":"BBD5062","L":"24","NamaSekolah":"SJK(T) LADANG SG TINGGI","Negeri":"SELANGOR","P":"27","PPD":"PPD KUALA SELANGOR"}
+{"J":"1546","KodSekolah":"BEA3074","L":"740","NamaSekolah":"SMK SERI TANJUNG","Negeri":"SELANGOR","P":"806","PPD":"PPD KUALA SELANGOR"}
+{"J":"1641","KodSekolah":"BEA3075","L":"792","NamaSekolah":"SMK DATO HARUN","Negeri":"SELANGOR","P":"849","PPD":"PPD KUALA SELANGOR"}
+{"J":"1488","KodSekolah":"BEA3077","L":"747","NamaSekolah":"SMK RAJA MUDA MUSA","Negeri":"SELANGOR","P":"741","PPD":"PPD KUALA SELANGOR"}
+{"J":"1212","KodSekolah":"BEA3078","L":"594","NamaSekolah":"SMK JERAM","Negeri":"SELANGOR","P":"618","PPD":"PPD KUALA SELANGOR"}
+{"J":"763","KodSekolah":"BEA3079","L":"412","NamaSekolah":"SMK SG. BURONG","Negeri":"SELANGOR","P":"351","PPD":"PPD KUALA SELANGOR"}
+{"J":"592","KodSekolah":"BEA3080","L":"294","NamaSekolah":"SMK TIRAM JAYA","Negeri":"SELANGOR","P":"298","PPD":"PPD KUALA SELANGOR"}
+{"J":"342","KodSekolah":"BEA3081","L":"178","NamaSekolah":"SMK RANTAU PANJANG","Negeri":"SELANGOR","P":"164","PPD":"PPD KUALA SELANGOR"}
+{"J":"979","KodSekolah":"BEA3082","L":"470","NamaSekolah":"SMK PENGKALAN PERMATANG","Negeri":"SELANGOR","P":"509","PPD":"PPD KUALA SELANGOR"}
+{"J":"760","KodSekolah":"BEA3083","L":"370","NamaSekolah":"SM SAINS KUALA SELANGOR","Negeri":"SELANGOR","P":"390","PPD":"PPD KUALA SELANGOR"}
+{"J":"2655","KodSekolah":"BEA3084","L":"1340","NamaSekolah":"SMK SAUJANA UTAMA","Negeri":"SELANGOR","P":"1315","PPD":"PPD KUALA SELANGOR"}
+{"J":"2353","KodSekolah":"BEA3085","L":"1132","NamaSekolah":"SMK PUNCAK ALAM","Negeri":"SELANGOR","P":"1221","PPD":"PPD KUALA SELANGOR"}
+{"J":"669","KodSekolah":"BEA3086","L":"341","NamaSekolah":"SMK KUALA SELANGOR","Negeri":"SELANGOR","P":"328","PPD":"PPD KUALA SELANGOR"}
+{"J":"1030","KodSekolah":"BEA3087","L":"556","NamaSekolah":"SMK BUKIT KUCHING TENGAH","Negeri":"SELANGOR","P":"474","PPD":"PPD KUALA SELANGOR"}
+{"J":"490","KodSekolah":"BEA3088","L":"255","NamaSekolah":"SEKOLAH MENENGAH KEBANGSAAN PUNCAK ALAM 3","Negeri":"SELANGOR","P":"235","PPD":"PPD KUALA SELANGOR"}
+{"J":"1236","KodSekolah":"BEB3078","L":"607","NamaSekolah":"SMK SULTAN ABDUL AZIZ","Negeri":"SELANGOR","P":"629","PPD":"PPD KUALA SELANGOR"}
+{"J":"1028","KodSekolah":"BEB3079","L":"507","NamaSekolah":"SMK SULTAN SULAIMAN SHAH","Negeri":"SELANGOR","P":"521","PPD":"PPD KUALA SELANGOR"}
+{"J":"1011","KodSekolah":"BEB3080","L":"519","NamaSekolah":"SMK SERI DESA","Negeri":"SELANGOR","P":"492","PPD":"PPD KUALA SELANGOR"}
+{"J":"894","KodSekolah":"BFT3001","L":"343","NamaSekolah":"SAM JERAM","Negeri":"SELANGOR","P":"551","PPD":"PPD KUALA SELANGOR"}
+{"J":"855","KodSekolah":"BFT3002","L":"364","NamaSekolah":"SAM TANJONG KARANG","Negeri":"SELANGOR","P":"491","PPD":"PPD KUALA SELANGOR"}
+{"J":"207","KodSekolah":"BHA3001","L":"101","NamaSekolah":"SM VOKASIONAL KUALA SELANGOR","Negeri":"SELANGOR","P":"106","PPD":"PPD KUALA SELANGOR"}
+{"J":"630","KodSekolah":"BRA3001","L":"264","NamaSekolah":"SMKA KUALA SELANGOR","Negeri":"SELANGOR","P":"366","PPD":"PPD KUALA SELANGOR"}
+{"J":"974","KodSekolah":"BBA0024","L":"514","NamaSekolah":"SK TAMAN SRI MUDA","Negeri":"SELANGOR","P":"460","PPD":"PPD PETALING PERDANA"}
+{"J":"284","KodSekolah":"BBA8104","L":"162","NamaSekolah":"SK SS 19 SUBANG JAYA","Negeri":"SELANGOR","P":"122","PPD":"PPD PETALING PERDANA"}
+{"J":"1477","KodSekolah":"BBA8105","L":"791","NamaSekolah":"SK SEKSYEN 24","Negeri":"SELANGOR","P":"686","PPD":"PPD PETALING PERDANA"}
+{"J":"2120","KodSekolah":"BBA8202","L":"1065","NamaSekolah":"SK SUBANG","Negeri":"SELANGOR","P":"1055","PPD":"PPD PETALING PERDANA"}
+{"J":"1196","KodSekolah":"BBA8203","L":"630","NamaSekolah":"SK PADANG JAWA","Negeri":"SELANGOR","P":"566","PPD":"PPD PETALING PERDANA"}
+{"J":"663","KodSekolah":"BBA8204","L":"334","NamaSekolah":"SK PUCHONG","Negeri":"SELANGOR","P":"329","PPD":"PPD PETALING PERDANA"}
+{"J":"991","KodSekolah":"BBA8205","L":"527","NamaSekolah":"SK SERDANG","Negeri":"SELANGOR","P":"464","PPD":"PPD PETALING PERDANA"}
+{"J":"893","KodSekolah":"BBA8212","L":"443","NamaSekolah":"SK SUBANG JAYA","Negeri":"SELANGOR","P":"450","PPD":"PPD PETALING PERDANA"}
+{"J":"1521","KodSekolah":"BBA8213","L":"777","NamaSekolah":"SK RAJA MUDA (INTEG)","Negeri":"SELANGOR","P":"744","PPD":"PPD PETALING PERDANA"}
+{"J":"701","KodSekolah":"BBA8216","L":"378","NamaSekolah":"SK SEKSYEN ENAM","Negeri":"SELANGOR","P":"323","PPD":"PPD PETALING PERDANA"}
+{"J":"403","KodSekolah":"BBA8217","L":"206","NamaSekolah":"SK SRI SUBANG JAYA","Negeri":"SELANGOR","P":"197","PPD":"PPD PETALING PERDANA"}
+{"J":"1293","KodSekolah":"BBA8218","L":"679","NamaSekolah":"SK SRI SERDANG","Negeri":"SELANGOR","P":"614","PPD":"PPD PETALING PERDANA"}
+{"J":"1112","KodSekolah":"BBA8219","L":"567","NamaSekolah":"SK SEKSYEN 17 SHAH ALAM","Negeri":"SELANGOR","P":"545","PPD":"PPD PETALING PERDANA"}
+{"J":"1406","KodSekolah":"BBA8222","L":"758","NamaSekolah":"SK SEKSYEN 19","Negeri":"SELANGOR","P":"648","PPD":"PPD PETALING PERDANA"}
+{"J":"1263","KodSekolah":"BBA8223","L":"663","NamaSekolah":"SK HICOM","Negeri":"SELANGOR","P":"600","PPD":"PPD PETALING PERDANA"}
+{"J":"966","KodSekolah":"BBA8224","L":"496","NamaSekolah":"SK SEKSYEN 18","Negeri":"SELANGOR","P":"470","PPD":"PPD PETALING PERDANA"}
+{"J":"2012","KodSekolah":"BBA8225","L":"1066","NamaSekolah":"SK SEKSYEN 20","Negeri":"SELANGOR","P":"946","PPD":"PPD PETALING PERDANA"}
+{"J":"725","KodSekolah":"BBA8227","L":"369","NamaSekolah":"SK SEAFIELD","Negeri":"SELANGOR","P":"356","PPD":"PPD PETALING PERDANA"}
+{"J":"1945","KodSekolah":"BBA8228","L":"1064","NamaSekolah":"SK TAMAN UNIVERSITI","Negeri":"SELANGOR","P":"881","PPD":"PPD PETALING PERDANA"}
+{"J":"544","KodSekolah":"BBA8229","L":"286","NamaSekolah":"SK PUCHONG JAYA","Negeri":"SELANGOR","P":"258","PPD":"PPD PETALING PERDANA"}
+{"J":"1255","KodSekolah":"BBA8230","L":"672","NamaSekolah":"SK TAMAN ALAM MEGAH","Negeri":"SELANGOR","P":"583","PPD":"PPD PETALING PERDANA"}
+{"J":"1031","KodSekolah":"BBA8231","L":"520","NamaSekolah":"SK TAMAN SRI MUDA 2","Negeri":"SELANGOR","P":"511","PPD":"PPD PETALING PERDANA"}
+{"J":"368","KodSekolah":"BBA8232","L":"214","NamaSekolah":"SK PERDANA JAYA SS19","Negeri":"SELANGOR","P":"154","PPD":"PPD PETALING PERDANA"}
+{"J":"1011","KodSekolah":"BBA8233","L":"501","NamaSekolah":"SK TUDM SUBANG","Negeri":"SELANGOR","P":"510","PPD":"PPD PETALING PERDANA"}
+{"J":"927","KodSekolah":"BBA8234","L":"499","NamaSekolah":"SK BANDAR SUNWAY","Negeri":"SELANGOR","P":"428","PPD":"PPD PETALING PERDANA"}
+{"J":"2281","KodSekolah":"BBA8235","L":"1194","NamaSekolah":"SK PUCHONG PERDANA","Negeri":"SELANGOR","P":"1087","PPD":"PPD PETALING PERDANA"}
+{"J":"1015","KodSekolah":"BBA8237","L":"530","NamaSekolah":"SK SERI SELANGOR","Negeri":"SELANGOR","P":"485","PPD":"PPD PETALING PERDANA"}
+{"J":"956","KodSekolah":"BBA8238","L":"486","NamaSekolah":"SK BANDAR ANGGERIK","Negeri":"SELANGOR","P":"470","PPD":"PPD PETALING PERDANA"}
+{"J":"518","KodSekolah":"BBA8239","L":"299","NamaSekolah":"SK BUKIT KUCHAI","Negeri":"SELANGOR","P":"219","PPD":"PPD PETALING PERDANA"}
+{"J":"1464","KodSekolah":"BBA8240","L":"757","NamaSekolah":"SK TAMAN TUN DR ISMAIL JAYA","Negeri":"SELANGOR","P":"707","PPD":"PPD PETALING PERDANA"}
+{"J":"978","KodSekolah":"BBA8242","L":"540","NamaSekolah":"SK ALAM MEGAH DUA","Negeri":"SELANGOR","P":"438","PPD":"PPD PETALING PERDANA"}
+{"J":"941","KodSekolah":"BBA8243","L":"511","NamaSekolah":"SK SEAFIELD 3","Negeri":"SELANGOR","P":"430","PPD":"PPD PETALING PERDANA"}
+{"J":"110","KodSekolah":"BBA8245","L":"66","NamaSekolah":"SK PENDIDIKAN KHAS SELANGOR","Negeri":"SELANGOR","P":"44","PPD":"PPD PETALING PERDANA"}
+{"J":"1163","KodSekolah":"BBA8246","L":"587","NamaSekolah":"SK SEKSYEN 9, SHAH ALAM","Negeri":"SELANGOR","P":"576","PPD":"PPD PETALING PERDANA"}
+{"J":"498","KodSekolah":"BBA8247","L":"270","NamaSekolah":"SK USJ 2","Negeri":"SELANGOR","P":"228","PPD":"PPD PETALING PERDANA"}
+{"J":"1753","KodSekolah":"BBA8249","L":"921","NamaSekolah":"SK PUCHONG UTAMA","Negeri":"SELANGOR","P":"832","PPD":"PPD PETALING PERDANA"}
+{"J":"1085","KodSekolah":"BBA8251","L":"563","NamaSekolah":"SK USJ 20","Negeri":"SELANGOR","P":"522","PPD":"PPD PETALING PERDANA"}
+{"J":"1061","KodSekolah":"BBA8252","L":"537","NamaSekolah":"SK USJ 12","Negeri":"SELANGOR","P":"524","PPD":"PPD PETALING PERDANA"}
+{"J":"1912","KodSekolah":"BBA8254","L":"978","NamaSekolah":"SK PUCHONG UTAMA 2","Negeri":"SELANGOR","P":"934","PPD":"PPD PETALING PERDANA"}
+{"J":"1831","KodSekolah":"BBA8255","L":"900","NamaSekolah":"SK SEKSYEN 1 BANDAR KINRARA","Negeri":"SELANGOR","P":"931","PPD":"PPD PETALING PERDANA"}
+{"J":"924","KodSekolah":"BBA8256","L":"477","NamaSekolah":"SK SEKSYEN 13","Negeri":"SELANGOR","P":"447","PPD":"PPD PETALING PERDANA"}
+{"J":"2437","KodSekolah":"BBA8257","L":"1277","NamaSekolah":"SK PUCHONG INDAH","Negeri":"SELANGOR","P":"1160","PPD":"PPD PETALING PERDANA"}
+{"J":"617","KodSekolah":"BBA8258","L":"304","NamaSekolah":"SK PUSAT BANDAR PUCHONG (1)","Negeri":"SELANGOR","P":"313","PPD":"PPD PETALING PERDANA"}
+{"J":"1232","KodSekolah":"BBA8261","L":"623","NamaSekolah":"SK ALAM MEGAH (3)","Negeri":"SELANGOR","P":"609","PPD":"PPD PETALING PERDANA"}
+{"J":"1143","KodSekolah":"BBA8262","L":"590","NamaSekolah":"SK SEKSYEN 2 BANDAR KINRARA","Negeri":"SELANGOR","P":"553","PPD":"PPD PETALING PERDANA"}
+{"J":"2520","KodSekolah":"BBA8264","L":"1245","NamaSekolah":"SK BUKIT JELUTONG","Negeri":"SELANGOR","P":"1275","PPD":"PPD PETALING PERDANA"}
+{"J":"776","KodSekolah":"BBA8266","L":"382","NamaSekolah":"SK DATO' ONN JAAFAR","Negeri":"SELANGOR","P":"394","PPD":"PPD PETALING PERDANA"}
+{"J":"996","KodSekolah":"BBA8267","L":"507","NamaSekolah":"SK SEKSYEN 27(1)","Negeri":"SELANGOR","P":"489","PPD":"PPD PETALING PERDANA"}
+{"J":"2701","KodSekolah":"BBA8268","L":"1421","NamaSekolah":"SK SUBANG BESTARI","Negeri":"SELANGOR","P":"1280","PPD":"PPD PETALING PERDANA"}
+{"J":"895","KodSekolah":"BBA8269","L":"453","NamaSekolah":"SK PUSAT BANDAR PUCHONG 2","Negeri":"SELANGOR","P":"442","PPD":"PPD PETALING PERDANA"}
+{"J":"1513","KodSekolah":"BBA8272","L":"796","NamaSekolah":"SK SEKSYEN 7","Negeri":"SELANGOR","P":"717","PPD":"PPD PETALING PERDANA"}
+{"J":"968","KodSekolah":"BBA8273","L":"522","NamaSekolah":"SK SEKSYEN 27 (2)","Negeri":"SELANGOR","P":"446","PPD":"PPD PETALING PERDANA"}
+{"J":"545","KodSekolah":"BBA8274","L":"289","NamaSekolah":"SK PUCHONG JAYA 2","Negeri":"SELANGOR","P":"256","PPD":"PPD PETALING PERDANA"}
+{"J":"1601","KodSekolah":"BBA8275","L":"841","NamaSekolah":"SK TAMAN BUKIT SUBANG","Negeri":"SELANGOR","P":"760","PPD":"PPD PETALING PERDANA"}
+{"J":"780","KodSekolah":"BBA8279","L":"417","NamaSekolah":"SK PUCHONG UTAMA 3","Negeri":"SELANGOR","P":"363","PPD":"PPD PETALING PERDANA"}
+{"J":"1228","KodSekolah":"BBA8280","L":"633","NamaSekolah":"SK TAMAN SUNGAI BESI INDAH","Negeri":"SELANGOR","P":"595","PPD":"PPD PETALING PERDANA"}
+{"J":"938","KodSekolah":"BBA8281","L":"476","NamaSekolah":"SK KAMPUNG LINDUNGAN","Negeri":"SELANGOR","P":"462","PPD":"PPD PETALING PERDANA"}
+{"J":"2034","KodSekolah":"BBA8282","L":"1073","NamaSekolah":"SK JALAN U3","Negeri":"SELANGOR","P":"961","PPD":"PPD PETALING PERDANA"}
+{"J":"1194","KodSekolah":"BBA8283","L":"619","NamaSekolah":"SK SETIA ALAM","Negeri":"SELANGOR","P":"575","PPD":"PPD PETALING PERDANA"}
+{"J":"1809","KodSekolah":"BBA8284","L":"948","NamaSekolah":"SK TAMAN DESAMINIUM","Negeri":"SELANGOR","P":"861","PPD":"PPD PETALING PERDANA"}
+{"J":"755","KodSekolah":"BBA8286","L":"393","NamaSekolah":"SEKOLAH KEBANGSAAN SAUJANA PUCHONG","Negeri":"SELANGOR","P":"362","PPD":"PPD PETALING PERDANA"}
+{"J":"968","KodSekolah":"BBA8287","L":"495","NamaSekolah":"SEKOLAH KEBANGSAAN SUBANG BESTARI DUA","Negeri":"SELANGOR","P":"473","PPD":"PPD PETALING PERDANA"}
+{"J":"584","KodSekolah":"BBB8315","L":"310","NamaSekolah":"SK SHAH ALAM","Negeri":"SELANGOR","P":"274","PPD":"PPD PETALING PERDANA"}
+{"J":"1151","KodSekolah":"BBC8403","L":"598","NamaSekolah":"SJK(C) KUNG MAN","Negeri":"SELANGOR","P":"553","PPD":"PPD PETALING PERDANA"}
+{"J":"3958","KodSekolah":"BBC8404","L":"2008","NamaSekolah":"SJK(C) HAN MING","Negeri":"SELANGOR","P":"1950","PPD":"PPD PETALING PERDANA"}
+{"J":"2506","KodSekolah":"BBC8405","L":"1294","NamaSekolah":"SJK(C) SERDANG BARU (1)","Negeri":"SELANGOR","P":"1212","PPD":"PPD PETALING PERDANA"}
+{"J":"3219","KodSekolah":"BBC8406","L":"1613","NamaSekolah":"SJK(C) SERDANG BARU (2)","Negeri":"SELANGOR","P":"1606","PPD":"PPD PETALING PERDANA"}
+{"J":"1914","KodSekolah":"BBC8407","L":"997","NamaSekolah":"SJK(C) SUBANG","Negeri":"SELANGOR","P":"917","PPD":"PPD PETALING PERDANA"}
+{"J":"3933","KodSekolah":"BBC8410","L":"2003","NamaSekolah":"SJK(C) YAK CHEE","Negeri":"SELANGOR","P":"1930","PPD":"PPD PETALING PERDANA"}
+{"J":"2520","KodSekolah":"BBC8414","L":"1269","NamaSekolah":"SJK(C) LICK HUNG","Negeri":"SELANGOR","P":"1251","PPD":"PPD PETALING PERDANA"}
+{"J":"968","KodSekolah":"BBC8416","L":"485","NamaSekolah":"SJK(C) TUN TAN CHENG LOCK","Negeri":"SELANGOR","P":"483","PPD":"PPD PETALING PERDANA"}
+{"J":"2598","KodSekolah":"BBC8417","L":"1274","NamaSekolah":"SJK(C) CHEE WEN","Negeri":"SELANGOR","P":"1324","PPD":"PPD PETALING PERDANA"}
+{"J":"2206","KodSekolah":"BBC8419","L":"1138","NamaSekolah":"SJK(C) LADANG HARCROFT","Negeri":"SELANGOR","P":"1068","PPD":"PPD PETALING PERDANA"}
+{"J":"450","KodSekolah":"BBC8421","L":"239","NamaSekolah":"SJK(C) TUN TAN SIEW SIN","Negeri":"SELANGOR","P":"211","PPD":"PPD PETALING PERDANA"}
+{"J":"304","KodSekolah":"BBC8422","L":"154","NamaSekolah":"SEKOLAH JENIS KEBANGSAAN CINA KHENG CHEE","Negeri":"SELANGOR","P":"150","PPD":"PPD PETALING PERDANA"}
+{"J":"456","KodSekolah":"BBD8451","L":"241","NamaSekolah":"SJK(T) CASTLEFIELD","Negeri":"SELANGOR","P":"215","PPD":"PPD PETALING PERDANA"}
+{"J":"570","KodSekolah":"BBD8453","L":"243","NamaSekolah":"SJK(T) F E S SERDANG","Negeri":"SELANGOR","P":"327","PPD":"PPD PETALING PERDANA"}
+{"J":"1102","KodSekolah":"BBD8454","L":"557","NamaSekolah":"SJK(T) PUCHONG","Negeri":"SELANGOR","P":"545","PPD":"PPD PETALING PERDANA"}
+{"J":"624","KodSekolah":"BBD8455","L":"313","NamaSekolah":"SJK(T) LDG KINRARA","Negeri":"SELANGOR","P":"311","PPD":"PPD PETALING PERDANA"}
+{"J":"225","KodSekolah":"BBD8459","L":"115","NamaSekolah":"SJK(T) HICOM","Negeri":"SELANGOR","P":"110","PPD":"PPD PETALING PERDANA"}
+{"J":"104","KodSekolah":"BBD8461","L":"60","NamaSekolah":"SJK(T) LADANG EBOR","Negeri":"SELANGOR","P":"44","PPD":"PPD PETALING PERDANA"}
+{"J":"80","KodSekolah":"BBD8462","L":"44","NamaSekolah":"SJK(T) LDG GLENMARIE","Negeri":"SELANGOR","P":"36","PPD":"PPD PETALING PERDANA"}
+{"J":"152","KodSekolah":"BBD8463","L":"79","NamaSekolah":"SJK(T) LADANG MIDLANDS","Negeri":"SELANGOR","P":"73","PPD":"PPD PETALING PERDANA"}
+{"J":"133","KodSekolah":"BBD8466","L":"72","NamaSekolah":"SJK(T) LDG RASAK","Negeri":"SELANGOR","P":"61","PPD":"PPD PETALING PERDANA"}
+{"J":"930","KodSekolah":"BBD8468","L":"445","NamaSekolah":"SJK(T) SG  RENGGAM","Negeri":"SELANGOR","P":"485","PPD":"PPD PETALING PERDANA"}
+{"J":"90","KodSekolah":"BBD8469","L":"41","NamaSekolah":"SJK(T) LDG SEAFIELD","Negeri":"SELANGOR","P":"49","PPD":"PPD PETALING PERDANA"}
+{"J":"630","KodSekolah":"BBD8470","L":"331","NamaSekolah":"SJK(T) TUN SAMBANTHAN","Negeri":"SELANGOR","P":"299","PPD":"PPD PETALING PERDANA"}
+{"J":"1542","KodSekolah":"BEA8601","L":"696","NamaSekolah":"SMK PUCHONG","Negeri":"SELANGOR","P":"846","PPD":"PPD PETALING PERDANA"}
+{"J":"1205","KodSekolah":"BEA8603","L":"619","NamaSekolah":"SMK SULTAN SALAHUDDIN ABDUL AZIZ SHAH","Negeri":"SELANGOR","P":"586","PPD":"PPD PETALING PERDANA"}
+{"J":"1088","KodSekolah":"BEA8604","L":"591","NamaSekolah":"SMK SUBANG JAYA","Negeri":"SELANGOR","P":"497","PPD":"PPD PETALING PERDANA"}
+{"J":"2466","KodSekolah":"BEA8606","L":"1130","NamaSekolah":"SMK SERI SERDANG","Negeri":"SELANGOR","P":"1336","PPD":"PPD PETALING PERDANA"}
+{"J":"1395","KodSekolah":"BEA8609","L":"676","NamaSekolah":"SMK BATU 8","Negeri":"SELANGOR","P":"719","PPD":"PPD PETALING PERDANA"}
+{"J":"1206","KodSekolah":"BEA8610","L":"586","NamaSekolah":"SMK SEKSYEN 16","Negeri":"SELANGOR","P":"620","PPD":"PPD PETALING PERDANA"}
+{"J":"148","KodSekolah":"BEA8612","L":"66","NamaSekolah":"SM PENDIDIKAN KHAS SHAH ALAM","Negeri":"SELANGOR","P":"82","PPD":"PPD PETALING PERDANA"}
+{"J":"994","KodSekolah":"BEA8614","L":"509","NamaSekolah":"SMK SUBANG UTAMA","Negeri":"SELANGOR","P":"485","PPD":"PPD PETALING PERDANA"}
+{"J":"386","KodSekolah":"BEA8616","L":"243","NamaSekolah":"SMK SEKSYEN SEBELAS","Negeri":"SELANGOR","P":"143","PPD":"PPD PETALING PERDANA"}
+{"J":"1296","KodSekolah":"BEA8617","L":"513","NamaSekolah":"SMK SEKSYEN 18","Negeri":"SELANGOR","P":"783","PPD":"PPD PETALING PERDANA"}
+{"J":"2055","KodSekolah":"BEA8618","L":"994","NamaSekolah":"SMK SEAFIELD","Negeri":"SELANGOR","P":"1061","PPD":"PPD PETALING PERDANA"}
+{"J":"1405","KodSekolah":"BEA8619","L":"761","NamaSekolah":"SMK SEKSYEN 24","Negeri":"SELANGOR","P":"644","PPD":"PPD PETALING PERDANA"}
+{"J":"2151","KodSekolah":"BEA8621","L":"1092","NamaSekolah":"SMK SEKSYEN 19","Negeri":"SELANGOR","P":"1059","PPD":"PPD PETALING PERDANA"}
+{"J":"1313","KodSekolah":"BEA8622","L":"630","NamaSekolah":"SMK ALAM MEGAH","Negeri":"SELANGOR","P":"683","PPD":"PPD PETALING PERDANA"}
+{"J":"1826","KodSekolah":"BEA8623","L":"926","NamaSekolah":"SMK TAMAN SRI MUDA","Negeri":"SELANGOR","P":"900","PPD":"PPD PETALING PERDANA"}
+{"J":"698","KodSekolah":"BEA8625","L":"369","NamaSekolah":"SMK SS 17","Negeri":"SELANGOR","P":"329","PPD":"PPD PETALING PERDANA"}
+{"J":"1174","KodSekolah":"BEA8626","L":"623","NamaSekolah":"SMK BANDAR SUNWAY","Negeri":"SELANGOR","P":"551","PPD":"PPD PETALING PERDANA"}
+{"J":"1365","KodSekolah":"BEA8627","L":"734","NamaSekolah":"SMK SERI INDAH","Negeri":"SELANGOR","P":"631","PPD":"PPD PETALING PERDANA"}
+{"J":"2514","KodSekolah":"BEA8628","L":"1302","NamaSekolah":"SMK PUCHONG PERDANA","Negeri":"SELANGOR","P":"1212","PPD":"PPD PETALING PERDANA"}
+{"J":"1658","KodSekolah":"BEA8629","L":"805","NamaSekolah":"SMK SEKSYEN 9","Negeri":"SELANGOR","P":"853","PPD":"PPD PETALING PERDANA"}
+{"J":"2697","KodSekolah":"BEA8630","L":"1309","NamaSekolah":"SMK SUBANG","Negeri":"SELANGOR","P":"1388","PPD":"PPD PETALING PERDANA"}
+{"J":"1335","KodSekolah":"BEA8632","L":"728","NamaSekolah":"SMK USJ 4","Negeri":"SELANGOR","P":"607","PPD":"PPD PETALING PERDANA"}
+{"J":"1704","KodSekolah":"BEA8633","L":"879","NamaSekolah":"SMK USJ 13","Negeri":"SELANGOR","P":"825","PPD":"PPD PETALING PERDANA"}
+{"J":"1448","KodSekolah":"BEA8634","L":"766","NamaSekolah":"SMK USJ 8","Negeri":"SELANGOR","P":"682","PPD":"PPD PETALING PERDANA"}
+{"J":"1973","KodSekolah":"BEA8635","L":"1008","NamaSekolah":"SMK USJ 12","Negeri":"SELANGOR","P":"965","PPD":"PPD PETALING PERDANA"}
+{"J":"2667","KodSekolah":"BEA8636","L":"1312","NamaSekolah":"SMK PUCHONG UTAMA (1)","Negeri":"SELANGOR","P":"1355","PPD":"PPD PETALING PERDANA"}
+{"J":"2052","KodSekolah":"BEA8637","L":"1011","NamaSekolah":"SMK TTDI JAYA","Negeri":"SELANGOR","P":"1041","PPD":"PPD PETALING PERDANA"}
+{"J":"986","KodSekolah":"BEA8639","L":"482","NamaSekolah":"SMK SEKSYEN 1 BANDAR KINRARA","Negeri":"SELANGOR","P":"504","PPD":"PPD PETALING PERDANA"}
+{"J":"1020","KodSekolah":"BEA8642","L":"505","NamaSekolah":"SMK USJ 23","Negeri":"SELANGOR","P":"515","PPD":"PPD PETALING PERDANA"}
+{"J":"1696","KodSekolah":"BEA8645","L":"853","NamaSekolah":"SMK SEKSYEN 3 BANDAR KINRARA","Negeri":"SELANGOR","P":"843","PPD":"PPD PETALING PERDANA"}
+{"J":"1792","KodSekolah":"BEA8647","L":"889","NamaSekolah":"SMK SEKSYEN 4 BANDAR KINRARA","Negeri":"SELANGOR","P":"903","PPD":"PPD PETALING PERDANA"}
+{"J":"2121","KodSekolah":"BEA8648","L":"1060","NamaSekolah":"SMK SEKSYEN 7","Negeri":"SELANGOR","P":"1061","PPD":"PPD PETALING PERDANA"}
+{"J":"2769","KodSekolah":"BEA8649","L":"1431","NamaSekolah":"SMK PUSAT BANDAR PUCHONG 1","Negeri":"SELANGOR","P":"1338","PPD":"PPD PETALING PERDANA"}
+{"J":"1804","KodSekolah":"BEA8650","L":"894","NamaSekolah":"SMK BUKIT JELUTONG","Negeri":"SELANGOR","P":"910","PPD":"PPD PETALING PERDANA"}
+{"J":"1331","KodSekolah":"BEA8653","L":"631","NamaSekolah":"SMK ALAM MEGAH 2","Negeri":"SELANGOR","P":"700","PPD":"PPD PETALING PERDANA"}
+{"J":"895","KodSekolah":"BEA8654","L":"425","NamaSekolah":"SMK SEKSYEN 24 (2)","Negeri":"SELANGOR","P":"470","PPD":"PPD PETALING PERDANA"}
+{"J":"1023","KodSekolah":"BEA8656","L":"562","NamaSekolah":"SMK BANDAR PUCHONG JAYA (A)","Negeri":"SELANGOR","P":"461","PPD":"PPD PETALING PERDANA"}
+{"J":"1194","KodSekolah":"BEA8657","L":"669","NamaSekolah":"SMK BANDAR PUCHONG JAYA (B)","Negeri":"SELANGOR","P":"525","PPD":"PPD PETALING PERDANA"}
+{"J":"779","KodSekolah":"BEA8660","L":"404","NamaSekolah":"SMK SEKSYEN 27","Negeri":"SELANGOR","P":"375","PPD":"PPD PETALING PERDANA"}
+{"J":"2346","KodSekolah":"BEA8662","L":"1151","NamaSekolah":"SMK SUBANG BESTARI","Negeri":"SELANGOR","P":"1195","PPD":"PPD PETALING PERDANA"}
+{"J":"1686","KodSekolah":"BEA8663","L":"845","NamaSekolah":"SMK PUCHONG PERMAI","Negeri":"SELANGOR","P":"841","PPD":"PPD PETALING PERDANA"}
+{"J":"1115","KodSekolah":"BEA8664","L":"572","NamaSekolah":"SMK TAMAN DESAMINIUM","Negeri":"SELANGOR","P":"543","PPD":"PPD PETALING PERDANA"}
+{"J":"1176","KodSekolah":"BEA8665","L":"591","NamaSekolah":"SMK SETIA ALAM","Negeri":"SELANGOR","P":"585","PPD":"PPD PETALING PERDANA"}
+{"J":"191","KodSekolah":"BEA8668","L":"96","NamaSekolah":"SEKOLAH MENENGAH KEBANGSAAN SHAH ALAM","Negeri":"SELANGOR","P":"95","PPD":"PPD PETALING PERDANA"}
+{"J":"3340","KodSekolah":"BEB8659","L":"1666","NamaSekolah":"SMK SERI KEMBANGAN","Negeri":"SELANGOR","P":"1674","PPD":"PPD PETALING PERDANA"}
+{"J":"709","KodSekolah":"BFT8002","L":"322","NamaSekolah":"SAM BESTARI","Negeri":"SELANGOR","P":"387","PPD":"PPD PETALING PERDANA"}
+{"J":"799","KodSekolah":"BFT8003","L":"360","NamaSekolah":"SAMT TENGKU AMPUAN JEMAAH","Negeri":"SELANGOR","P":"439","PPD":"PPD PETALING PERDANA"}
+{"J":"503","KodSekolah":"BHA8004","L":"402","NamaSekolah":"KOLEJ VOKASIONAL SHAH ALAM","Negeri":"SELANGOR","P":"101","PPD":"PPD PETALING PERDANA"}
+{"J":"870","KodSekolah":"BBA8101","L":"451","NamaSekolah":"SK TAMAN DATO HARUN (2)","Negeri":"SELANGOR","P":"419","PPD":"PPD PETALING UTAMA"}
+{"J":"237","KodSekolah":"BBA8102","L":"123","NamaSekolah":"SK KELANA JAYA (2)","Negeri":"SELANGOR","P":"114","PPD":"PPD PETALING UTAMA"}
+{"J":"99","KodSekolah":"BBA8103","L":"58","NamaSekolah":"SK DAMANSARA JAYA (2)","Negeri":"SELANGOR","P":"41","PPD":"PPD PETALING UTAMA"}
+{"J":"976","KodSekolah":"BBA8106","L":"532","NamaSekolah":"SK TAMAN MEGAH","Negeri":"SELANGOR","P":"444","PPD":"PPD PETALING UTAMA"}
+{"J":"635","KodSekolah":"BBA8201","L":"409","NamaSekolah":"SK PETALING JAYA","Negeri":"SELANGOR","P":"226","PPD":"PPD PETALING UTAMA"}
+{"J":"149","KodSekolah":"BBA8206","L":"69","NamaSekolah":"SK BUKIT LANJAN","Negeri":"SELANGOR","P":"80","PPD":"PPD PETALING UTAMA"}
+{"J":"579","KodSekolah":"BBA8208","L":"307","NamaSekolah":"SK DAMANSARA UTAMA","Negeri":"SELANGOR","P":"272","PPD":"PPD PETALING UTAMA"}
+{"J":"226","KodSekolah":"BBA8209","L":"121","NamaSekolah":"SK SRI DAMAI","Negeri":"SELANGOR","P":"105","PPD":"PPD PETALING UTAMA"}
+{"J":"894","KodSekolah":"BBA8210","L":"482","NamaSekolah":"SK TAMAN DATO' HARUN (SATU)","Negeri":"SELANGOR","P":"412","PPD":"PPD PETALING UTAMA"}
+{"J":"530","KodSekolah":"BBA8211","L":"282","NamaSekolah":"SK KELANA JAYA (1)","Negeri":"SELANGOR","P":"248","PPD":"PPD PETALING UTAMA"}
+{"J":"234","KodSekolah":"BBA8214","L":"119","NamaSekolah":"SK TAMAN SEA","Negeri":"SELANGOR","P":"115","PPD":"PPD PETALING UTAMA"}
+{"J":"205","KodSekolah":"BBA8215","L":"119","NamaSekolah":"SK DAMANSARA JAYA (1)","Negeri":"SELANGOR","P":"86","PPD":"PPD PETALING UTAMA"}
+{"J":"1997","KodSekolah":"BBA8220","L":"1025","NamaSekolah":"SK TAMAN MEDAN","Negeri":"SELANGOR","P":"972","PPD":"PPD PETALING UTAMA"}
+{"J":"676","KodSekolah":"BBA8221","L":"381","NamaSekolah":"SK SRI KELANA","Negeri":"SELANGOR","P":"295","PPD":"PPD PETALING UTAMA"}
+{"J":"1132","KodSekolah":"BBA8236","L":"598","NamaSekolah":"SEKOLAH KEBANGSAAN SEKSYEN 7 KOTA DAMANSARA","Negeri":"SELANGOR","P":"534","PPD":"PPD PETALING UTAMA"}
+{"J":"386","KodSekolah":"BBA8241","L":"196","NamaSekolah":"SK BANDAR BARU SRI DAMANSARA","Negeri":"SELANGOR","P":"190","PPD":"PPD PETALING UTAMA"}
+{"J":"199","KodSekolah":"BBA8244","L":"109","NamaSekolah":"SK BANDAR UTAMA DAMANSARA","Negeri":"SELANGOR","P":"90","PPD":"PPD PETALING UTAMA"}
+{"J":"557","KodSekolah":"BBA8248","L":"309","NamaSekolah":"SK BANDAR UTAMA DAMANSARA 2","Negeri":"SELANGOR","P":"248","PPD":"PPD PETALING UTAMA"}
+{"J":"1430","KodSekolah":"BBA8250","L":"702","NamaSekolah":"SK SEKSYEN 6 KOTA DAMANSARA","Negeri":"SELANGOR","P":"728","PPD":"PPD PETALING UTAMA"}
+{"J":"601","KodSekolah":"BBA8253","L":"317","NamaSekolah":"SK BANDAR BARU SRI DAMANSARA 2","Negeri":"SELANGOR","P":"284","PPD":"PPD PETALING UTAMA"}
+{"J":"526","KodSekolah":"BBA8259","L":"262","NamaSekolah":"SK BANDAR SRI DAMANSARA 3","Negeri":"SELANGOR","P":"264","PPD":"PPD PETALING UTAMA"}
+{"J":"760","KodSekolah":"BBA8260","L":"385","NamaSekolah":"SK BANDAR UTAMA DAMANSARA (4)","Negeri":"SELANGOR","P":"375","PPD":"PPD PETALING UTAMA"}
+{"J":"382","KodSekolah":"BBA8263","L":"204","NamaSekolah":"SK TROPICANA","Negeri":"SELANGOR","P":"178","PPD":"PPD PETALING UTAMA"}
+{"J":"1158","KodSekolah":"BBA8265","L":"628","NamaSekolah":"SK BANDAR SRI DAMANSARA 1","Negeri":"SELANGOR","P":"530","PPD":"PPD PETALING UTAMA"}
+{"J":"993","KodSekolah":"BBA8270","L":"507","NamaSekolah":"SK SEKSYEN 9 KOTA DAMANSARA","Negeri":"SELANGOR","P":"486","PPD":"PPD PETALING UTAMA"}
+{"J":"1888","KodSekolah":"BBA8271","L":"942","NamaSekolah":"SK DAMANSARA DAMAI 1","Negeri":"SELANGOR","P":"946","PPD":"PPD PETALING UTAMA"}
+{"J":"905","KodSekolah":"BBA8276","L":"479","NamaSekolah":"SK PPR LEMBAH SUBANG","Negeri":"SELANGOR","P":"426","PPD":"PPD PETALING UTAMA"}
+{"J":"1241","KodSekolah":"BBA8277","L":"616","NamaSekolah":"SK SEKSYEN 11 KOTA  DAMANSARA","Negeri":"SELANGOR","P":"625","PPD":"PPD PETALING UTAMA"}
+{"J":"944","KodSekolah":"BBA8285","L":"482","NamaSekolah":"SK DAMANSARA DAMAI 2","Negeri":"SELANGOR","P":"462","PPD":"PPD PETALING UTAMA"}
+{"J":"784","KodSekolah":"BBB8301","L":"0","NamaSekolah":"SK ASSUNTA  SATU","Negeri":"SELANGOR","P":"784","PPD":"PPD PETALING UTAMA"}
+{"J":"716","KodSekolah":"BBB8302","L":"0","NamaSekolah":"SK ASSUNTA (2) (M)","Negeri":"SELANGOR","P":"716","PPD":"PPD PETALING UTAMA"}
+{"J":"122","KodSekolah":"BBB8303","L":"122","NamaSekolah":"SK (L) BUKIT BINTANG (1)","Negeri":"SELANGOR","P":"0","PPD":"PPD PETALING UTAMA"}
+{"J":"94","KodSekolah":"BBB8304","L":"94","NamaSekolah":"SK (L) BUKIT BINTANG (2)","Negeri":"SELANGOR","P":"0","PPD":"PPD PETALING UTAMA"}
+{"J":"1298","KodSekolah":"BBB8305","L":"703","NamaSekolah":"SK KAMPUNG TUNKU","Negeri":"SELANGOR","P":"595","PPD":"PPD PETALING UTAMA"}
+{"J":"555","KodSekolah":"BBB8306","L":"555","NamaSekolah":"SK LA SALLE, PJ","Negeri":"SELANGOR","P":"0","PPD":"PPD PETALING UTAMA"}
+{"J":"388","KodSekolah":"BBB8307","L":"224","NamaSekolah":"SK METHODIST,PJ","Negeri":"SELANGOR","P":"164","PPD":"PPD PETALING UTAMA"}
+{"J":"303","KodSekolah":"BBB8308","L":"183","NamaSekolah":"SK (1) PETALING JAYA","Negeri":"SELANGOR","P":"120","PPD":"PPD PETALING UTAMA"}
+{"J":"194","KodSekolah":"BBB8309","L":"121","NamaSekolah":"SK (2) PETALING JAYA","Negeri":"SELANGOR","P":"73","PPD":"PPD PETALING UTAMA"}
+{"J":"121","KodSekolah":"BBB8310","L":"0","NamaSekolah":"SK JALAN SELANGOR (SATU)","Negeri":"SELANGOR","P":"121","PPD":"PPD PETALING UTAMA"}
+{"J":"111","KodSekolah":"BBB8311","L":"0","NamaSekolah":"SK (2) JALAN SELANGOR","Negeri":"SELANGOR","P":"111","PPD":"PPD PETALING UTAMA"}
+{"J":"326","KodSekolah":"BBB8312","L":"180","NamaSekolah":"SK SATU SULTAN ALAM SHAH","Negeri":"SELANGOR","P":"146","PPD":"PPD PETALING UTAMA"}
+{"J":"119","KodSekolah":"BBB8313","L":"60","NamaSekolah":"SK (2) SULTAN ALAM SHAH","Negeri":"SELANGOR","P":"59","PPD":"PPD PETALING UTAMA"}
+{"J":"896","KodSekolah":"BBB8314","L":"516","NamaSekolah":"SK SRI PETALING","Negeri":"SELANGOR","P":"380","PPD":"PPD PETALING UTAMA"}
+{"J":"428","KodSekolah":"BBB8316","L":"219","NamaSekolah":"SK SUNGEI WAY","Negeri":"SELANGOR","P":"209","PPD":"PPD PETALING UTAMA"}
+{"J":"1338","KodSekolah":"BBC8401","L":"690","NamaSekolah":"SJK(C) CHEN MOH","Negeri":"SELANGOR","P":"648","PPD":"PPD PETALING UTAMA"}
+{"J":"2146","KodSekolah":"BBC8402","L":"1063","NamaSekolah":"SJK(C) DAMANSARA","Negeri":"SELANGOR","P":"1083","PPD":"PPD PETALING UTAMA"}
+{"J":"1069","KodSekolah":"BBC8408","L":"552","NamaSekolah":"SJK(C) SUNGAI WAY","Negeri":"SELANGOR","P":"517","PPD":"PPD PETALING UTAMA"}
+{"J":"1438","KodSekolah":"BBC8409","L":"737","NamaSekolah":"SJK(C) SUNGAI BULOH","Negeri":"SELANGOR","P":"701","PPD":"PPD PETALING UTAMA"}
+{"J":"3468","KodSekolah":"BBC8411","L":"1782","NamaSekolah":"SJK(C) YUK CHAI","Negeri":"SELANGOR","P":"1686","PPD":"PPD PETALING UTAMA"}
+{"J":"898","KodSekolah":"BBC8412","L":"465","NamaSekolah":"SJK(C) YUK CHYUN","Negeri":"SELANGOR","P":"433","PPD":"PPD PETALING UTAMA"}
+{"J":"1861","KodSekolah":"BBC8413","L":"947","NamaSekolah":"SJK(C) PUAY CHAI","Negeri":"SELANGOR","P":"914","PPD":"PPD PETALING UTAMA"}
+{"J":"2299","KodSekolah":"BBC8415","L":"1171","NamaSekolah":"SJK(C) PUAY CHAI 2","Negeri":"SELANGOR","P":"1128","PPD":"PPD PETALING UTAMA"}
+{"J":"2127","KodSekolah":"BBC8418","L":"1093","NamaSekolah":"SJK(C) DESA JAYA 2","Negeri":"SELANGOR","P":"1034","PPD":"PPD PETALING UTAMA"}
+{"J":"305","KodSekolah":"BBC8420","L":"166","NamaSekolah":"SJK(C) CHUNG HWA DAMANSARA","Negeri":"SELANGOR","P":"139","PPD":"PPD PETALING UTAMA"}
+{"J":"325","KodSekolah":"BBD8452","L":"161","NamaSekolah":"SJK(T) LDG EFFINGHAM","Negeri":"SELANGOR","P":"164","PPD":"PPD PETALING UTAMA"}
+{"J":"350","KodSekolah":"BBD8456","L":"174","NamaSekolah":"SJK(T) RRI SUNGAI BULOH","Negeri":"SELANGOR","P":"176","PPD":"PPD PETALING UTAMA"}
+{"J":"791","KodSekolah":"BBD8458","L":"413","NamaSekolah":"SJK(T) VIVEKANANDA","Negeri":"SELANGOR","P":"378","PPD":"PPD PETALING UTAMA"}
+{"J":"190","KodSekolah":"BBD8467","L":"107","NamaSekolah":"SJK(T) SEAPORT","Negeri":"SELANGOR","P":"83","PPD":"PPD PETALING UTAMA"}
+{"J":"1388","KodSekolah":"BEA8602","L":"780","NamaSekolah":"SMK SRI PERMATA","Negeri":"SELANGOR","P":"608","PPD":"PPD PETALING UTAMA"}
+{"J":"1628","KodSekolah":"BEA8607","L":"862","NamaSekolah":"SMK TAMAN DATO'  HARUN","Negeri":"SELANGOR","P":"766","PPD":"PPD PETALING UTAMA"}
+{"J":"1517","KodSekolah":"BEA8608","L":"769","NamaSekolah":"SMK DAMANSARA JAYA","Negeri":"SELANGOR","P":"748","PPD":"PPD PETALING UTAMA"}
+{"J":"883","KodSekolah":"BEA8611","L":"451","NamaSekolah":"SMK DAMANSARA UTAMA","Negeri":"SELANGOR","P":"432","PPD":"PPD PETALING UTAMA"}
+{"J":"1466","KodSekolah":"BEA8613","L":"734","NamaSekolah":"SMK TAMAN MEDAN","Negeri":"SELANGOR","P":"732","PPD":"PPD PETALING UTAMA"}
+{"J":"789","KodSekolah":"BEA8615","L":"438","NamaSekolah":"SMK KELANA JAYA","Negeri":"SELANGOR","P":"351","PPD":"PPD PETALING UTAMA"}
+{"J":"575","KodSekolah":"BEA8624","L":"313","NamaSekolah":"SMK SRI UTAMA","Negeri":"SELANGOR","P":"262","PPD":"PPD PETALING UTAMA"}
+{"J":"689","KodSekolah":"BEA8631","L":"336","NamaSekolah":"SMK BANDAR UTAMA","Negeri":"SELANGOR","P":"353","PPD":"PPD PETALING UTAMA"}
+{"J":"1788","KodSekolah":"BEA8638","L":"858","NamaSekolah":"SMK SEKSYEN 10 KOTA DAMANSARA","Negeri":"SELANGOR","P":"930","PPD":"PPD PETALING UTAMA"}
+{"J":"690","KodSekolah":"BEA8640","L":"357","NamaSekolah":"SMK TROPICANA","Negeri":"SELANGOR","P":"333","PPD":"PPD PETALING UTAMA"}
+{"J":"1366","KodSekolah":"BEA8641","L":"681","NamaSekolah":"SMK BANDAR SRI DAMANSARA 2","Negeri":"SELANGOR","P":"685","PPD":"PPD PETALING UTAMA"}
+{"J":"1299","KodSekolah":"BEA8643","L":"648","NamaSekolah":"SMK BANDAR UTAMA DAMANSARA 3","Negeri":"SELANGOR","P":"651","PPD":"PPD PETALING UTAMA"}
+{"J":"1138","KodSekolah":"BEA8644","L":"576","NamaSekolah":"SMK BANDAR UTAMA DAMANSARA (4)","Negeri":"SELANGOR","P":"562","PPD":"PPD PETALING UTAMA"}
+{"J":"1903","KodSekolah":"BEA8652","L":"980","NamaSekolah":"SMK DAMANSARA DAMAI 1","Negeri":"SELANGOR","P":"923","PPD":"PPD PETALING UTAMA"}
+{"J":"1616","KodSekolah":"BEA8655","L":"823","NamaSekolah":"SMK SEKSYEN 4 KOTA DAMANSARA","Negeri":"SELANGOR","P":"793","PPD":"PPD PETALING UTAMA"}
+{"J":"854","KodSekolah":"BEA8658","L":"493","NamaSekolah":"SMK BANDAR UTAMA DAMANSARA (2)","Negeri":"SELANGOR","P":"361","PPD":"PPD PETALING UTAMA"}
+{"J":"1568","KodSekolah":"BEA8659","L":"840","NamaSekolah":"SMK BANDAR SRI DAMANSARA 1","Negeri":"SELANGOR","P":"728","PPD":"PPD PETALING UTAMA"}
+{"J":"654","KodSekolah":"BEA8661","L":"315","NamaSekolah":"SMK LEMBAH SUBANG","Negeri":"SELANGOR","P":"339","PPD":"PPD PETALING UTAMA"}
+{"J":"827","KodSekolah":"BEA8666","L":"398","NamaSekolah":"SMK SEKSYEN 8, KOTA DAMANSARA","Negeri":"SELANGOR","P":"429","PPD":"PPD PETALING UTAMA"}
+{"J":"286","KodSekolah":"BEA8669","L":"112","NamaSekolah":"SEKOLAH MENENGAH KEBANGSAAN PETALING JAYA","Negeri":"SELANGOR","P":"174","PPD":"PPD PETALING UTAMA"}
+{"J":"1755","KodSekolah":"BEB8651","L":"0","NamaSekolah":"SMK ASSUNTA","Negeri":"SELANGOR","P":"1755","PPD":"PPD PETALING UTAMA"}
+{"J":"705","KodSekolah":"BEB8652","L":"705","NamaSekolah":"SMK (L) BUKIT BINTANG","Negeri":"SELANGOR","P":"0","PPD":"PPD PETALING UTAMA"}
+{"J":"2739","KodSekolah":"BEB8653","L":"1198","NamaSekolah":"SMK KATHOLIK (M)","Negeri":"SELANGOR","P":"1541","PPD":"PPD PETALING UTAMA"}
+{"J":"1295","KodSekolah":"BEB8654","L":"1192","NamaSekolah":"SMK LA SALLE,PJ","Negeri":"SELANGOR","P":"103","PPD":"PPD PETALING UTAMA"}
+{"J":"895","KodSekolah":"BEB8655","L":"0","NamaSekolah":"SMK (P) SRI AMAN","Negeri":"SELANGOR","P":"895","PPD":"PPD PETALING UTAMA"}
+{"J":"1801","KodSekolah":"BEB8656","L":"966","NamaSekolah":"SMK TAMAN SEA","Negeri":"SELANGOR","P":"835","PPD":"PPD PETALING UTAMA"}
+{"J":"1134","KodSekolah":"BEB8657","L":"736","NamaSekolah":"SMK SULTAN ABDUL SAMAD","Negeri":"SELANGOR","P":"398","PPD":"PPD PETALING UTAMA"}
+{"J":"946","KodSekolah":"BEB8658","L":"0","NamaSekolah":"SMK (P) TMN PETALING","Negeri":"SELANGOR","P":"946","PPD":"PPD PETALING UTAMA"}
+{"J":"1212","KodSekolah":"BBA6001","L":"654","NamaSekolah":"SK SERI MAKMUR","Negeri":"SELANGOR","P":"558","PPD":"PPD SABAK BERNAM"}
+{"J":"351","KodSekolah":"BBA6002","L":"178","NamaSekolah":"SK SG HJ DORANI","Negeri":"SELANGOR","P":"173","PPD":"PPD SABAK BERNAM"}
+{"J":"515","KodSekolah":"BBA6003","L":"260","NamaSekolah":"SK SIMPANG LIMA","Negeri":"SELANGOR","P":"255","PPD":"PPD SABAK BERNAM"}
+{"J":"207","KodSekolah":"BBA6004","L":"117","NamaSekolah":"SK PANCHANG PEDENA","Negeri":"SELANGOR","P":"90","PPD":"PPD SABAK BERNAM"}
+{"J":"433","KodSekolah":"BBA6005","L":"232","NamaSekolah":"SK SG LIMAU","Negeri":"SELANGOR","P":"201","PPD":"PPD SABAK BERNAM"}
+{"J":"177","KodSekolah":"BBA6006","L":"97","NamaSekolah":"SK PARIT 4","Negeri":"SELANGOR","P":"80","PPD":"PPD SABAK BERNAM"}
+{"J":"389","KodSekolah":"BBA6007","L":"201","NamaSekolah":"SK PARIT 6","Negeri":"SELANGOR","P":"188","PPD":"PPD SABAK BERNAM"}
+{"J":"366","KodSekolah":"BBA6008","L":"186","NamaSekolah":"SK SERI BAHAGIA","Negeri":"SELANGOR","P":"180","PPD":"PPD SABAK BERNAM"}
+{"J":"327","KodSekolah":"BBA6009","L":"162","NamaSekolah":"SK TOK KHALIFAH","Negeri":"SELANGOR","P":"165","PPD":"PPD SABAK BERNAM"}
+{"J":"282","KodSekolah":"BBA6010","L":"145","NamaSekolah":"SK BAGAN TERAP","Negeri":"SELANGOR","P":"137","PPD":"PPD SABAK BERNAM"}
+{"J":"121","KodSekolah":"BBA6011","L":"67","NamaSekolah":"SK PARIT 13","Negeri":"SELANGOR","P":"54","PPD":"PPD SABAK BERNAM"}
+{"J":"72","KodSekolah":"BBA6012","L":"35","NamaSekolah":"SK LOBOK PUSING","Negeri":"SELANGOR","P":"37","PPD":"PPD SABAK BERNAM"}
+{"J":"578","KodSekolah":"BBA6013","L":"291","NamaSekolah":"SK DOKTOR ABDUL LATIFF","Negeri":"SELANGOR","P":"287","PPD":"PPD SABAK BERNAM"}
+{"J":"551","KodSekolah":"BBA6014","L":"285","NamaSekolah":"SK BATU 38","Negeri":"SELANGOR","P":"266","PPD":"PPD SABAK BERNAM"}
+{"J":"76","KodSekolah":"BBA6015","L":"35","NamaSekolah":"SK KG BAHARU","Negeri":"SELANGOR","P":"41","PPD":"PPD SABAK BERNAM"}
+{"J":"237","KodSekolah":"BBA6016","L":"121","NamaSekolah":"SK TUN DOKTOR ISMAIL","Negeri":"SELANGOR","P":"116","PPD":"PPD SABAK BERNAM"}
+{"J":"193","KodSekolah":"BBA6017","L":"99","NamaSekolah":"SK SEKENDI","Negeri":"SELANGOR","P":"94","PPD":"PPD SABAK BERNAM"}
+{"J":"186","KodSekolah":"BBA6018","L":"85","NamaSekolah":"SK SIMPANG 4 BNO","Negeri":"SELANGOR","P":"101","PPD":"PPD SABAK BERNAM"}
+{"J":"299","KodSekolah":"BBA6019","L":"160","NamaSekolah":"SK PARIT BAHARU","Negeri":"SELANGOR","P":"139","PPD":"PPD SABAK BERNAM"}
+{"J":"174","KodSekolah":"BBA6020","L":"97","NamaSekolah":"SK SUNGAI TENGAR","Negeri":"SELANGOR","P":"77","PPD":"PPD SABAK BERNAM"}
+{"J":"234","KodSekolah":"BBA6021","L":"123","NamaSekolah":"SK SERI MAWAR","Negeri":"SELANGOR","P":"111","PPD":"PPD SABAK BERNAM"}
+{"J":"139","KodSekolah":"BBA6022","L":"69","NamaSekolah":"SK TEBOK JAWA","Negeri":"SELANGOR","P":"70","PPD":"PPD SABAK BERNAM"}
+{"J":"193","KodSekolah":"BBA6023","L":"94","NamaSekolah":"SK SAPINTAS","Negeri":"SELANGOR","P":"99","PPD":"PPD SABAK BERNAM"}
+{"J":"175","KodSekolah":"BBA6024","L":"96","NamaSekolah":"SK KAMPONG BANTING","Negeri":"SELANGOR","P":"79","PPD":"PPD SABAK BERNAM"}
+{"J":"18","KodSekolah":"BBA6025","L":"9","NamaSekolah":"SK TANJONG JAWA","Negeri":"SELANGOR","P":"9","PPD":"PPD SABAK BERNAM"}
+{"J":"120","KodSekolah":"BBA6026","L":"59","NamaSekolah":"SK TELUK RU","Negeri":"SELANGOR","P":"61","PPD":"PPD SABAK BERNAM"}
+{"J":"119","KodSekolah":"BBA6027","L":"58","NamaSekolah":"SK SERI CEMPAKA","Negeri":"SELANGOR","P":"61","PPD":"PPD SABAK BERNAM"}
+{"J":"419","KodSekolah":"BBA6028","L":"234","NamaSekolah":"SK SG LEMAN","Negeri":"SELANGOR","P":"185","PPD":"PPD SABAK BERNAM"}
+{"J":"275","KodSekolah":"BBA6029","L":"157","NamaSekolah":"SK PARIT 9","Negeri":"SELANGOR","P":"118","PPD":"PPD SABAK BERNAM"}
+{"J":"434","KodSekolah":"BBA6030","L":"198","NamaSekolah":"SK PASIR PANJANG","Negeri":"SELANGOR","P":"236","PPD":"PPD SABAK BERNAM"}
+{"J":"290","KodSekolah":"BBA6031","L":"152","NamaSekolah":"SK SUNGAI NIBONG","Negeri":"SELANGOR","P":"138","PPD":"PPD SABAK BERNAM"}
+{"J":"482","KodSekolah":"BBA6032","L":"245","NamaSekolah":"SK BINJAI JAYA","Negeri":"SELANGOR","P":"237","PPD":"PPD SABAK BERNAM"}
+{"J":"273","KodSekolah":"BBB6028","L":"148","NamaSekolah":"SK KHIR JOHARI","Negeri":"SELANGOR","P":"125","PPD":"PPD SABAK BERNAM"}
+{"J":"579","KodSekolah":"BBB6029","L":"316","NamaSekolah":"SK SERI UTAMA","Negeri":"SELANGOR","P":"263","PPD":"PPD SABAK BERNAM"}
+{"J":"460","KodSekolah":"BBB6030","L":"239","NamaSekolah":"SK SERI SEKINCHAN","Negeri":"SELANGOR","P":"221","PPD":"PPD SABAK BERNAM"}
+{"J":"185","KodSekolah":"BBC6030","L":"91","NamaSekolah":"SJK(C) CHEONG HUA","Negeri":"SELANGOR","P":"94","PPD":"PPD SABAK BERNAM"}
+{"J":"110","KodSekolah":"BBC6031","L":"54","NamaSekolah":"SJK(C) HAI PING","Negeri":"SELANGOR","P":"56","PPD":"PPD SABAK BERNAM"}
+{"J":"300","KodSekolah":"BBC6032","L":"161","NamaSekolah":"SJK(C) LUM HUA","Negeri":"SELANGOR","P":"139","PPD":"PPD SABAK BERNAM"}
+{"J":"22","KodSekolah":"BBC6033","L":"11","NamaSekolah":"SJK(C) MOON TECK","Negeri":"SELANGOR","P":"11","PPD":"PPD SABAK BERNAM"}
+{"J":"91","KodSekolah":"BBC6034","L":"52","NamaSekolah":"SJK(C) PHOOI TEE","Negeri":"SELANGOR","P":"39","PPD":"PPD SABAK BERNAM"}
+{"J":"99","KodSekolah":"BBC6035","L":"62","NamaSekolah":"SJK(C) POAY CHNEH","Negeri":"SELANGOR","P":"37","PPD":"PPD SABAK BERNAM"}
+{"J":"837","KodSekolah":"BBC6036","L":"422","NamaSekolah":"SJK(C) SIN MIN","Negeri":"SELANGOR","P":"415","PPD":"PPD SABAK BERNAM"}
+{"J":"23","KodSekolah":"BBC6037","L":"16","NamaSekolah":"SJK(C) PHOOI MIN","Negeri":"SELANGOR","P":"7","PPD":"PPD SABAK BERNAM"}
+{"J":"997","KodSekolah":"BBC6038","L":"479","NamaSekolah":"SJK(C) YOKE KUAN","Negeri":"SELANGOR","P":"518","PPD":"PPD SABAK BERNAM"}
+{"J":"89","KodSekolah":"BBC6039","L":"45","NamaSekolah":"SJK(C) KIAN SIT","Negeri":"SELANGOR","P":"44","PPD":"PPD SABAK BERNAM"}
+{"J":"37","KodSekolah":"BBD6039","L":"19","NamaSekolah":"SJK(T) LADANG SUNGAI BERNAM","Negeri":"SELANGOR","P":"18","PPD":"PPD SABAK BERNAM"}
+{"J":"108","KodSekolah":"BBD6040","L":"54","NamaSekolah":"SJK(T) LADANG SABAK BERNAM","Negeri":"SELANGOR","P":"54","PPD":"PPD SABAK BERNAM"}
+{"J":"1194","KodSekolah":"BEA6041","L":"535","NamaSekolah":"SMK UNGKU AZIZ","Negeri":"SELANGOR","P":"659","PPD":"PPD SABAK BERNAM"}
+{"J":"806","KodSekolah":"BEA6042","L":"435","NamaSekolah":"SMK MUNSHI ABDULLAH","Negeri":"SELANGOR","P":"371","PPD":"PPD SABAK BERNAM"}
+{"J":"1790","KodSekolah":"BEA6043","L":"922","NamaSekolah":"SMK SUNGAI BESAR","Negeri":"SELANGOR","P":"868","PPD":"PPD SABAK BERNAM"}
+{"J":"835","KodSekolah":"BEA6044","L":"458","NamaSekolah":"SMK BAGAN TERAP","Negeri":"SELANGOR","P":"377","PPD":"PPD SABAK BERNAM"}
+{"J":"685","KodSekolah":"BEA6045","L":"262","NamaSekolah":"SMKA SIMPANG LIMA","Negeri":"SELANGOR","P":"423","PPD":"PPD SABAK BERNAM"}
+{"J":"1030","KodSekolah":"BEA6601","L":"534","NamaSekolah":"SMK DATO MUSTAFFA","Negeri":"SELANGOR","P":"496","PPD":"PPD SABAK BERNAM"}
+{"J":"1073","KodSekolah":"BEB6044","L":"544","NamaSekolah":"SMK TUNKU ABDUL RAHMAN PUTRA","Negeri":"SELANGOR","P":"529","PPD":"PPD SABAK BERNAM"}
+{"J":"970","KodSekolah":"BEB6046","L":"484","NamaSekolah":"SMK SERI BEDENA","Negeri":"SELANGOR","P":"486","PPD":"PPD SABAK BERNAM"}
+{"J":"1503","KodSekolah":"BEB6047","L":"778","NamaSekolah":"SMK YOKE KUAN","Negeri":"SELANGOR","P":"725","PPD":"PPD SABAK BERNAM"}
+{"J":"445","KodSekolah":"BFT6001","L":"122","NamaSekolah":"SAM PARIT BARU","Negeri":"SELANGOR","P":"323","PPD":"PPD SABAK BERNAM"}
+{"J":"393","KodSekolah":"BFT6002","L":"187","NamaSekolah":"SAM BAGAN TERAP","Negeri":"SELANGOR","P":"206","PPD":"PPD SABAK BERNAM"}
+{"J":"438","KodSekolah":"BFT6003","L":"214","NamaSekolah":"SAM SUNGAI HAJI DORANI","Negeri":"SELANGOR","P":"224","PPD":"PPD SABAK BERNAM"}
+{"J":"454","KodSekolah":"BFT6004","L":"191","NamaSekolah":"SAM PASIR PANJANG","Negeri":"SELANGOR","P":"263","PPD":"PPD SABAK BERNAM"}
+{"J":"817","KodSekolah":"BFT6005","L":"352","NamaSekolah":"SAM MUHAMMADIAH","Negeri":"SELANGOR","P":"465","PPD":"PPD SABAK BERNAM"}
+{"J":"472","KodSekolah":"BFT6006","L":"132","NamaSekolah":"SAM TENGKU AMPUAN JEMAAH","Negeri":"SELANGOR","P":"340","PPD":"PPD SABAK BERNAM"}
+{"J":"936","KodSekolah":"BFT6007","L":"370","NamaSekolah":"SAMT SULTAN SALAHUDDIN ABD AZIZ SHAH","Negeri":"SELANGOR","P":"566","PPD":"PPD SABAK BERNAM"}
+{"J":"505","KodSekolah":"BRA6001","L":"239","NamaSekolah":"SBPI SABAK BERNAM","Negeri":"SELANGOR","P":"266","PPD":"PPD SABAK BERNAM"}
+{"J":"679","KodSekolah":"BBA9201","L":"321","NamaSekolah":"SK SUNGAI RAWANG","Negeri":"SELANGOR","P":"358","PPD":"PPD SEPANG"}
+{"J":"212","KodSekolah":"BBA9202","L":"113","NamaSekolah":"SK BKT BANGKONG","Negeri":"SELANGOR","P":"99","PPD":"PPD SEPANG"}
+{"J":"253","KodSekolah":"BBA9203","L":"133","NamaSekolah":"SK SG PELEK","Negeri":"SELANGOR","P":"120","PPD":"PPD SEPANG"}
+{"J":"844","KodSekolah":"BBA9204","L":"431","NamaSekolah":"SK SALAK","Negeri":"SELANGOR","P":"413","PPD":"PPD SEPANG"}
+{"J":"558","KodSekolah":"BBA9205","L":"315","NamaSekolah":"SK KG BAHARU LANJUT","Negeri":"SELANGOR","P":"243","PPD":"PPD SEPANG"}
+{"J":"233","KodSekolah":"BBA9208","L":"111","NamaSekolah":"SK JENDERAM","Negeri":"SELANGOR","P":"122","PPD":"PPD SEPANG"}
+{"J":"349","KodSekolah":"BBA9209","L":"175","NamaSekolah":"SK JENDERAM HILIR","Negeri":"SELANGOR","P":"174","PPD":"PPD SEPANG"}
+{"J":"1043","KodSekolah":"BBA9210","L":"547","NamaSekolah":"SK DENGKIL","Negeri":"SELANGOR","P":"496","PPD":"PPD SEPANG"}
+{"J":"747","KodSekolah":"BBA9211","L":"401","NamaSekolah":"SK SG MERAB LUAR","Negeri":"SELANGOR","P":"346","PPD":"PPD SEPANG"}
+{"J":"562","KodSekolah":"BBA9212","L":"291","NamaSekolah":"SK DESA PUTRA","Negeri":"SELANGOR","P":"271","PPD":"PPD SEPANG"}
+{"J":"626","KodSekolah":"BBA9213","L":"321","NamaSekolah":"SK DATO' ABU BAKAR BAGINDA","Negeri":"SELANGOR","P":"305","PPD":"PPD SEPANG"}
+{"J":"623","KodSekolah":"BBA9214","L":"314","NamaSekolah":"SK PULAU MERANTI","Negeri":"SELANGOR","P":"309","PPD":"PPD SEPANG"}
+{"J":"77","KodSekolah":"BBA9215","L":"43","NamaSekolah":"SK SG MELUT (ASLI)","Negeri":"SELANGOR","P":"34","PPD":"PPD SEPANG"}
+{"J":"208","KodSekolah":"BBA9216","L":"102","NamaSekolah":"SK BKT TAMPOI (ASLI)","Negeri":"SELANGOR","P":"106","PPD":"PPD SEPANG"}
+{"J":"932","KodSekolah":"BBA9217","L":"474","NamaSekolah":"SK BANDAR BARU SALAK TINGGI","Negeri":"SELANGOR","P":"458","PPD":"PPD SEPANG"}
+{"J":"1115","KodSekolah":"BBA9220","L":"563","NamaSekolah":"SK TAMAN SEROJA","Negeri":"SELANGOR","P":"552","PPD":"PPD SEPANG"}
+{"J":"606","KodSekolah":"BBA9221","L":"293","NamaSekolah":"SK TAMAN PANTAI SEPANG PUTRA","Negeri":"SELANGOR","P":"313","PPD":"PPD SEPANG"}
+{"J":"1962","KodSekolah":"BBA9224","L":"1043","NamaSekolah":"SK TAMAN PUTRA PERDANA","Negeri":"SELANGOR","P":"919","PPD":"PPD SEPANG"}
+{"J":"1298","KodSekolah":"BBA9225","L":"700","NamaSekolah":"SK KOTA WARISAN","Negeri":"SELANGOR","P":"598","PPD":"PPD SEPANG"}
+{"J":"1347","KodSekolah":"BBA9226","L":"701","NamaSekolah":"SK CYBERJAYA","Negeri":"SELANGOR","P":"646","PPD":"PPD SEPANG"}
+{"J":"1028","KodSekolah":"BBA9227","L":"509","NamaSekolah":"SK KLIA","Negeri":"SELANGOR","P":"519","PPD":"PPD SEPANG"}
+{"J":"1741","KodSekolah":"BBA9228","L":"904","NamaSekolah":"SK TAMAN PUTRA PERDANA 2","Negeri":"SELANGOR","P":"837","PPD":"PPD SEPANG"}
+{"J":"274","KodSekolah":"BBA9229","L":"149","NamaSekolah":"SEKOLAH KEBANGSAAN DESA PINGGIRAN PUTRA","Negeri":"SELANGOR","P":"125","PPD":"PPD SEPANG"}
+{"J":"245","KodSekolah":"BBB9301","L":"112","NamaSekolah":"SK METHODIST (INTEG) (M)","Negeri":"SELANGOR","P":"133","PPD":"PPD SEPANG"}
+{"J":"170","KodSekolah":"BBC9401","L":"90","NamaSekolah":"SJK(C) CHIO CHIAO","Negeri":"SELANGOR","P":"80","PPD":"PPD SEPANG"}
+{"J":"614","KodSekolah":"BBC9402","L":"335","NamaSekolah":"SJK(C) DENGKIL","Negeri":"SELANGOR","P":"279","PPD":"PPD SEPANG"}
+{"J":"192","KodSekolah":"BBC9403","L":"105","NamaSekolah":"SJK(C) SEPANG","Negeri":"SELANGOR","P":"87","PPD":"PPD SEPANG"}
+{"J":"1909","KodSekolah":"BBC9404","L":"952","NamaSekolah":"SJK(C) SIN MING","Negeri":"SELANGOR","P":"957","PPD":"PPD SEPANG"}
+{"J":"282","KodSekolah":"BBC9405","L":"153","NamaSekolah":"SJK(C) TCHE MIN","Negeri":"SELANGOR","P":"129","PPD":"PPD SEPANG"}
+{"J":"414","KodSekolah":"BBC9406","L":"221","NamaSekolah":"SJK(C) WAH LIAN","Negeri":"SELANGOR","P":"193","PPD":"PPD SEPANG"}
+{"J":"68","KodSekolah":"BBD9452","L":"33","NamaSekolah":"SJK(T) LADANG AMPAR TENANG","Negeri":"SELANGOR","P":"35","PPD":"PPD SEPANG"}
+{"J":"29","KodSekolah":"BBD9453","L":"17","NamaSekolah":"SJK(T) LADANG BUTE","Negeri":"SELANGOR","P":"12","PPD":"PPD SEPANG"}
+{"J":"297","KodSekolah":"BBD9454","L":"150","NamaSekolah":"SJK(T) BANDAR BARU SALAK TINGGI","Negeri":"SELANGOR","P":"147","PPD":"PPD SEPANG"}
+{"J":"279","KodSekolah":"BBD9455","L":"134","NamaSekolah":"SJK(T) DENGKIL","Negeri":"SELANGOR","P":"145","PPD":"PPD SEPANG"}
+{"J":"175","KodSekolah":"BBD9457","L":"84","NamaSekolah":"SJK(T) TAMAN PERMATA","Negeri":"SELANGOR","P":"91","PPD":"PPD SEPANG"}
+{"J":"256","KodSekolah":"BBD9458","L":"110","NamaSekolah":"SJK(T) SEPANG","Negeri":"SELANGOR","P":"146","PPD":"PPD SEPANG"}
+{"J":"387","KodSekolah":"BBD9460","L":"194","NamaSekolah":"SJK(T) TELUK MERBAU","Negeri":"SELANGOR","P":"193","PPD":"PPD SEPANG"}
+{"J":"91","KodSekolah":"BBD9461","L":"45","NamaSekolah":"SJK(T) LDG WEST COUNTRY 'BARAT'","Negeri":"SELANGOR","P":"46","PPD":"PPD SEPANG"}
+{"J":"568","KodSekolah":"BEA9601","L":"275","NamaSekolah":"SMK SUNGAI RAWANG","Negeri":"SELANGOR","P":"293","PPD":"PPD SEPANG"}
+{"J":"1987","KodSekolah":"BEA9602","L":"1025","NamaSekolah":"SMK SERI SEPANG","Negeri":"SELANGOR","P":"962","PPD":"PPD SEPANG"}
+{"J":"1946","KodSekolah":"BEA9604","L":"933","NamaSekolah":"SMK BANDAR BARU SALAK TINGGI","Negeri":"SELANGOR","P":"1013","PPD":"PPD SEPANG"}
+{"J":"867","KodSekolah":"BEA9607","L":"0","NamaSekolah":"SMK SERI PUTERI (SMBP)","Negeri":"SELANGOR","P":"867","PPD":"PPD SEPANG"}
+{"J":"892","KodSekolah":"BEA9609","L":"448","NamaSekolah":"SMK CYBERJAYA","Negeri":"SELANGOR","P":"444","PPD":"PPD SEPANG"}
+{"J":"606","KodSekolah":"BEA9610","L":"298","NamaSekolah":"SMK PANTAI SEPANG PUTRA","Negeri":"SELANGOR","P":"308","PPD":"PPD SEPANG"}
+{"J":"2397","KodSekolah":"BEA9611","L":"1195","NamaSekolah":"SMK PUTRA PERDANA","Negeri":"SELANGOR","P":"1202","PPD":"PPD SEPANG"}
+{"J":"1231","KodSekolah":"BEA9612","L":"654","NamaSekolah":"SMK DATO' ABU BAKAR BAGINDA","Negeri":"SELANGOR","P":"577","PPD":"PPD SEPANG"}
+{"J":"1616","KodSekolah":"BEB9651","L":"810","NamaSekolah":"SMK SUNGAI PELEK","Negeri":"SELANGOR","P":"806","PPD":"PPD SEPANG"}
+{"J":"1496","KodSekolah":"BEB9701","L":"747","NamaSekolah":"SMK DENGKIL","Negeri":"SELANGOR","P":"749","PPD":"PPD SEPANG"}
+{"J":"550","KodSekolah":"BFT9001","L":"254","NamaSekolah":"SAM SUNGAI MERAB LUAR","Negeri":"SELANGOR","P":"296","PPD":"PPD SEPANG"}
+{"J":"850","KodSekolah":"BFT9002","L":"379","NamaSekolah":"SAM BANDAR BARU SALAK TINGGI","Negeri":"SELANGOR","P":"471","PPD":"PPD SEPANG"}
+{"J":"292","KodSekolah":"BHA9001","L":"168","NamaSekolah":"SM VOKASIONAL SEPANG","Negeri":"SELANGOR","P":"124","PPD":"PPD SEPANG"}
