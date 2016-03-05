@@ -1,0 +1,7 @@
+id,state,name,address,address2,postcode,city,state_id,tel,fax,website,email,image,latitude,longitude,likes,rating,status
+13,SELANGOR,Klinik 1 Malaysia Bukit Beruntung,"C-G-01, Apartment Kenanga, Taman Bunga Raya, Bukit Beruntung, Hulu Selangor","Hulu Selangor, Selangor",48000,Bukit Beruntung,10,03-60212832,,,,,0,0,0,0,NEW
+16,SELANGOR,Klinik 1 Malaysia Bukit Sentosa,"No.13 Jalan Seroja 1B, Bukit Sentosa. 48000 Hulu Selangor","Hulu Selangor, Selangor",48000,Hulu Selangor,10,03-60211466,,,,,0,0,0,0,NEW
+18,SELANGOR,Klinik 1 Malaysia Cakerapurnama,"No.105, Jalan Cakerapurnama, 12/2 Seksyen 12, Bandar Baru Puncak Alam, 45010 Kuala Selangor","Kuala Selangor, Selangor",45010,Kuala Selangor,10,03-33933115,03-32895044(pkd),,,,0,0,0,0,NEW
+28,SELANGOR,Klinik 1 Malaysia Lembah Subang,"No.112 &113, Blok A Jalan PJU 1A/42, Taman Putra Damai, Lembah Subang Petaling Jaya","Petaling Jaya, Selangor",47301,Kelana Jaya,10,03-78035533,,,,,0,0,0,0,NEW
+32,SELANGOR,Klinik 1 Malaysia PJS 6,"No.2A, Jalan 6A, Kg  Lindungan 46000 Petaling Jaya","Petaling Jaya, Selangor",46000,Petaling Jaya,10,03-77819001,03-77819105,,,,0,0,0,0,NEW
+39,SELANGOR,Klinik 1 Malaysia Taman Gombak Permai,"No 1G, Jalan GP 2A, Taman Gombak Permai, 68100 Batu Cave","Gombak, Selangor",68100,Batu Cave,10,03-61856164,,,,,0,0,0,0,NEW
