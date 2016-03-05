@@ -1,0 +1,272 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    101.8061454,
+                    2.9876764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 2.9876764,
+                "_longitude": 101.8061454,
+                "alamat_value": "Jalan Semenyih",
+                "bandar_value": "Kajang",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/117",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Kajang",
+                "negeri_value": "Selangor",
+                "﻿no_number": "32"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.7298293,
+                    2.9780984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 2.9780984,
+                "_longitude": 101.7298293,
+                "alamat_value": "Jalan Puchong",
+                "bandar_value": "Kajang",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/123",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Serdang",
+                "negeri_value": "Selangor",
+                "﻿no_number": "94"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.5814316,
+                    3.216615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.216615,
+                "_longitude": 101.5814316,
+                "alamat_value": "Jalan Hospital",
+                "bandar_value": "Sungai Buluh",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/115",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Sungai Buloh",
+                "negeri_value": "Selangor",
+                "﻿no_number": "113"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.4873814,
+                    2.7930032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 2.7930032,
+                "_longitude": 101.4873814,
+                "alamat_value": "Jalan Sultan Alam Shah",
+                "bandar_value": "Banting",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/120",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Banting",
+                "negeri_value": "Selangor",
+                "﻿no_number": "6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.6477066,
+                    3.2408283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.2408283,
+                "_longitude": 101.6477066,
+                "alamat_value": "Lebuhraya Selayang-Kepong",
+                "bandar_value": "Batu Caves",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/114",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Selayang",
+                "negeri_value": "Selangor",
+                "﻿no_number": "91"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.6535491,
+                    3.5657037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.5657037,
+                "_longitude": 101.6535491,
+                "alamat_value": "Jalan Hospital",
+                "bandar_value": "Kuala Kubu Bharu",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/118",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Kuala Kubu Bharu",
+                "negeri_value": "Selangor",
+                "﻿no_number": "45"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.9128995,
+                    3.775840499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.775840499999999,
+                "_longitude": 100.9128995,
+                "alamat_value": "45200 Sabak Bernam",
+                "bandar_value": "Sabak Bernam",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/122",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Tengku Ampuan Jemaah",
+                "negeri_value": "Selangor",
+                "﻿no_number": "126"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.7612675,
+                    3.1419305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.1419305,
+                "_longitude": 101.7612675,
+                "alamat_value": "Jalan Mewah Utara",
+                "bandar_value": "Ampang",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/116",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Ampang",
+                "negeri_value": "Selangor",
+                "﻿no_number": "2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.4463825,
+                    2.9931096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 2.9931096,
+                "_longitude": 101.4463825,
+                "alamat_value": "Jalan Langat,41200 Klang",
+                "bandar_value": "Klang",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/119",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Hospital Tengku Ampuan Rahimah",
+                "negeri_value": "Selangor",
+                "﻿no_number": "127"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.1786454,
+                    3.4250664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.4250664,
+                "_longitude": 101.1786454,
+                "alamat_value": "Tanjung Karang",
+                "bandar_value": "Tanjung Karang",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/121",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "marker-color": "#7E7E7E",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "namehospital_value": "Hospital Tanjung Karang",
+                "negeri_value": "Selangor",
+                "﻿no_number": 120
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.5818531,
+                    3.221731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_latitude": 3.221731,
+                "_longitude": 101.5818531,
+                "alamat_value": "Sungai Buluh",
+                "bandar_value": "Sungai Buluh",
+                "col_image": "http://www.moh.gov.my/assets/shared/images/admin/magnifier.png",
+                "col_image/_alt": "",
+                "col_link": "http://www.moh.gov.my/index.php/database_stores/store_view_page/3/137",
+                "col_link/_text": "",
+                "col_link/_title": "View",
+                "namehospital_value": "Pusat Kawalan Kusta Negara",
+                "negeri_value": "Selangor",
+                "﻿no_number": "139"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
